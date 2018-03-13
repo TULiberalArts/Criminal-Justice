@@ -19,7 +19,7 @@ The following list contains the department and centers' full projects, research 
 - [The Philadelphia Predictive Policing Experiment](/center-for-security-and-crime-science/projects/#the-philadelphia-predictive-policing-experiment)
 - [The Philadelphia Policing Tactics Experiment](/center-for-security-and-crime-science/projects/#the-philadelphia-policing-tactics-experiment)
 - [The Philadelphia Foot Patrol Experiment](/center-for-security-and-crime-science/projects#the-philadelphia-foot-patrol-experiment)
-- [The Crime Reduction Impact of CCTV in Philadelphia](/center-for-security-and-crime-science/projects/#the-crime-reduction-impact-of- cctv-in-philadelphia)
+- [The Crime Reduction Impact of CCTV in Philadelphia](/center-for-security-and-crime-science/projects/#the-crime-reduction-impact-of-cctv-in-philadelphia)
 - [PROVE: Predictive Policing Software](/center-for-security-and-crime-science/projects/#prove-predictive-policing-software)
 
 ## Rehabilitation and Behavior Change
