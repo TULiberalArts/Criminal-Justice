@@ -25,9 +25,9 @@ The following list contains the department and centers' full projects, research 
 ## Rehabilitation and Behavior Change
 Rehabilitation and behavior change focuses on research involving high-risk offenders and criminal behaviors that include criminal and violent offending, recidivism, delinquency, substance use, and HIV risk behaviors.
  
-_Project Title_: **Juvenile Justice-Translational Research on Interventions for Adolescents in the Legal System (JJ-TRIALS)** </br>
-_Funding Agency_: National Institute on Drug Abuse, National Institutes of Health </br>
-_Affiliated Faculty_: [Steven Belenko](https://liberalarts.temple.edu/academics/faculty/belenko-steven) (PI), [Wayne Welsh](https://liberalarts.temple.edu/academics/faculty/welsh-wayne), [Jennifer Wood](https://liberalarts.temple.edu/academics/faculty/wood-jennifer) and [Matthew Hiller](https://liberalarts.temple.edu/academics/faculty/hiller-matt) </br>
+_Project Title_: **Juvenile Justice-Translational Research on Interventions for Adolescents in the Legal System (JJ-TRIALS)** <br>
+_Funding Agency_: National Institute on Drug Abuse, National Institutes of Health <br>
+_Affiliated Faculty_: [Steven Belenko](https://liberalarts.temple.edu/academics/faculty/belenko-steven) (PI), [Wayne Welsh](https://liberalarts.temple.edu/academics/faculty/welsh-wayne), [Jennifer Wood](https://liberalarts.temple.edu/academics/faculty/wood-jennifer) and [Matthew Hiller](https://liberalarts.temple.edu/academics/faculty/hiller-matt) <br>
 
 Description: A five-year multisite project to test implementation interventions to identify and reduce gaps in substance abuse services for adolescents under community juvenile justice supervision. The project involves a cluster randomized trial in 34 sites in 7 states. We are testing the impact of various interventions involving needs assessments, data-driven decision making, behavioral health training, and facilitated local change teams on organizational, staff, and youth outcomes.
  
