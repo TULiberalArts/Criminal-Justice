@@ -61,6 +61,7 @@ Depending upon available resources, a Teaching Assistantship (TA) may be awarded
 Additional financial support is often provided by employment and training opportunities on externally funded faculty research projects. Positions on funded research projects may include full or partial tuition coverage in addition to salary for up to 20 hours per week during the semester, with the possibility of full-time employment during semester breaks and summer months. The timing and availability of such opportunities depend on the status of faculty research projects and external grants.
 
 **If you have have a question about the graduate program please see the additional resources below.**
+- [Criminal Justice Graduate Student Association](/criminal-justice/student-life#graduate-student-association/)
 - [Criminal Justice FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20FAQ.pdf) (pdf)
 - [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/CriminalJusticeGraduateStudentHandbook_June2017_JF.pdf) (pdf)
 - [Graduate Forms](http://www.temple.edu/grad/forms/index.htm)
