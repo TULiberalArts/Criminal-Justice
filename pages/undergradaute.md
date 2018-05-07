@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: ''
+keywords: 'ba in crimianl jsutice, undergraduate students, minor, accelerated degree, honors program'
 description: >-
 published: true
 sidebar: true
