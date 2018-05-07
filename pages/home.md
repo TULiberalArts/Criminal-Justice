@@ -2,7 +2,7 @@
 title: Home
 permalink: /
 layout: home3
-keywords: ''
+keywords: 'major, minor, academic offerings, criminal justice students'
 feature: true
 feature-title: >-
   Committed to Deepening Our Understanding of Crime, Governance and Social Justice 
