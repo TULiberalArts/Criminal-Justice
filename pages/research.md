@@ -2,7 +2,7 @@
 title: Research
 permalink: /research/
 layout: page
-keywords: ''
+keywords: 'criminal justice research, research projects, center for security and crime science'
 description: >-
 published: true
 ---
