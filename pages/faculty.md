@@ -2,7 +2,7 @@
 title: Faculty
 permalink: /faculty/
 layout: faculty2
-keywords: ''
+keywords: 'criminal justice, faculty, faculty publications'
 description: >-
 published: true
 ---
