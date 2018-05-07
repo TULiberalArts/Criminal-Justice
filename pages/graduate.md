@@ -2,6 +2,8 @@
 title: Graduate
 permalink: /graduate/
 layout: page
+description: >-
+keywords: 'masters, phd, admissions, careers, research, financing opportunities, graduate faculty'
 published: true
 sidebar: true
 sidebar-content: |
