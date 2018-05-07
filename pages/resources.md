@@ -1,6 +1,8 @@
 ---
 title: Resources
 permalink: /resources/
+keywords: 'advising center, writing center, criminal justice resources, tu library, research and peer teaching, virtual student foreign service'
+description: >-
 layout: page
 published: true
 ---
