@@ -2,7 +2,7 @@
 title: Student Life
 permalink: /student-life/
 layout: page
-keywords: ''
+keywords: 'internships, pro ranger program, inside out prison exchange program, study abroad, awards and scholarships, graduate student association'
 description: >-
 published: true
 ---
