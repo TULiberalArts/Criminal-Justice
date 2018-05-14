@@ -37,6 +37,8 @@ sidebar-content: |
    [(215) 204-7919](tel:2152047919)   
    [shardy01@temple.edu](mailto:shardy01@temple.edu)  
 ---
+A criminal justice degree can help you make a difference in the world. Whether you want to investigate crimes, prosecute the law or fight for criminal justice reform, a Temple University education will give you the knowledge you need to forge your path. At the College of Liberal Arts, criminal justice experts teach students in our [minor](#minor-in-criminal-justice, [major](#bachelor-of-arts-in-criminal-justice), [honors](#criminal-justice-honors-program) and [4+1 programs](#criminal-justice-4-1-ba-ma) how to navigate the world of criminal justice.
+
 ## A Hands-On Approach
 ![Brian and Nick Research]({{site.baseurl}}/media/resized BrianNick_ICCWS2017.jpg){:.img-right}
 Majoring in criminal justice helps to prepare students for careers as practitioners, researchers, and academics in a variety of public and private sector professions in both adult and juvenile systems of justice, at the federal, state, and local levels of government. It also provides the core liberal arts foundations for students interested in alternative career paths or advanced education in law school and graduate programs in criminal justice, criminology, and related social-science fields. Students have a wide variety of internship opportunities and our classes emphasize experiential learning. Our internationally recognized “Inside Out” program offers the opportunity to attend classes in a prison.
