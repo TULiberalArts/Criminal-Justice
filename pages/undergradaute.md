@@ -37,7 +37,7 @@ sidebar-content: |
    [(215) 204-7919](tel:2152047919)   
    [shardy01@temple.edu](mailto:shardy01@temple.edu)  
 ---
-A criminal justice degree can help you make a difference in the world. Whether you want to investigate crimes, prosecute the law or fight for criminal justice reform, a Temple University education will give you the knowledge you need to forge your path. At the College of Liberal Arts, criminal justice experts teach students in our [minor](#minor-in-criminal-justice, [major](#bachelor-of-arts-in-criminal-justice), [honors](#criminal-justice-honors-program) and [4+1 programs](#criminal-justice-4-1-ba-ma) how to navigate the world of criminal justice.
+A criminal justice degree can help you make a difference in the world. Whether you want to investigate crimes, prosecute the law or fight for criminal justice reform, a Temple University education will give you the knowledge you need to forge your path. At the College of Liberal Arts, criminal justice experts teach students in our [minor](#minor-in-criminal-justice), [major](#bachelor-of-arts-in-criminal-justice), [honors](#criminal-justice-honors-program) and [4+1 programs](#criminal-justice-4-1-ba-ma) how to navigate the world of criminal justice.
 
 ## A Hands-On Approach
 ![Brian and Nick Research]({{site.baseurl}}/media/resized BrianNick_ICCWS2017.jpg){:.img-right}
