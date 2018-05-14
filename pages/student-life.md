@@ -6,6 +6,8 @@ keywords: 'internships, pro ranger program, inside out prison exchange program, 
 description: >-
 published: true
 ---
+As a criminal justice degree student, you’ll learn the skills and knowledge needed to administer justice and affect change in the system—but you have to leave the classroom to make either happen. Temple University criminal justice students have access to exciting [internships](#internships), [study abroad](#study-abroad-program) opportunities and [other programs](#proranger-philadelphia) that get them out into the world and exposed to real-world aspects of the criminal justice system. And students who need help financing their education can apply to a number of [scholarship and financial aid awards](#awards-and-scholarships).
+
 ## Internships
 As a Criminal Justice major, you can choose from numerous internship opportunities in the five county areas. We have an extensive list of sites from which to choose or you can suggest a site of special interest to you. Most sites are accepted if they give you the opportunity to come in contact with the criminal justice system or have an anti-violence component. You will do a certain number of hours of work per week at your site. It is an intensive experience of hands on education. You can view the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Undergraduate%20Internships.pdf) to learn more about requirements, courses, placement and contacts.
 
