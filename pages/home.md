@@ -15,7 +15,7 @@ feature-image: media/hero_bg.png
 ---
 ![Susan Barton visits]({{site.baseurl}}/media/resized Susan Barton Visits.jpg){:.img-right}
 ## A Practice-Focused Intellectual Experience
-Students often debate issues such as police legitimacy, victims’ rights, mass incarceration, fairness in sentencing, and reintegration of formerly incarcerated individuals, as well as a wide variety of other topics. Criminal Justice majors graduate successfully and make a difference by working in various criminal justice agencies, becoming attorneys and attending graduate school.
+Students often debate issues such as police legitimacy, victims’ rights, mass incarceration, fairness in sentencing, and reintegration of formerly incarcerated individuals, as well as a wide variety of other topics. Criminal Justice majors make a difference by working in various criminal justice agencies, becoming attorneys and attending graduate school.
         
 ## Academic Offerings 
 - [BA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/ba-criminal-justice/)
