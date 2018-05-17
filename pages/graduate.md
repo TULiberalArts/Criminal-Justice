@@ -22,18 +22,11 @@ sidebar-content: |
    
    ___
    
-   **Administrator:**  
-   Jessica Brennan  
-   708 Gladfelter Hall   
-   [(215) 204-7577](tel:2152047577)  
-   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
-   
-   ___
-
-   **Coordinator:**  
-   LaSaundra Scott     
-   [(215) 204-1376](tel:2152041376)   
-   [lscott01@temple.edu](mailto:lscott01@temple.edu)  
+   **Assistant Administrator:**  
+   Tycina Lefwich   
+   508 Gladfelter Hall    
+   [(215)-204-1376](tel:2152041376)    
+   [tcousin@temple.edu](mailto:tcousin@temple.edu)      
 ---
 How well do you know the justice system? A criminal justice [master’s degree](#conduct-research-and-learn-in-a-dynamic-environment) can help you, well, master the field. Not content to stop there? The College of Liberal Arts also offers a criminal justice [doctoral program](#conduct-research-and-learn-in-a-dynamic-environment). Attaining either degree will advance your current understanding of law enforcement and empower you to achieve a successful criminal justice career. Learn more about your [financial opportunities](#financial-opportunities) today to see how an advanced criminal justice degree from Temple University can fit into your life.
 
