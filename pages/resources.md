@@ -8,9 +8,8 @@ published: true
 ---
 Considering earning your criminal justice degree at Temple University but aren’t sure where to get started? You’ve come to the right place! Below you’ll find all the info you need on [advising](#advising-center), [mentoring](#criminal-justice-mentoring-center), [writing help](#writing-center), the [library system](#tu-library), [peer teaching](#opportunities-for-research-and-peer-teaching), [disability services](#disability-services-and-resources) and even [virtual student foreign service](#virtual-student-foreign-service).
 
-## Advising Center
+## Criminal Justice Advising Center
 The mission of the Criminal Justice Advising office is to assist students with planning and implementing rosters, provide students with career information and to help students navigate through the college years. Our office posts information about scholarships, jobs, internships and social organizations that will maximize the students’ college experience. 
-- [2018 Mentoring Center Hours]() **NEED UPDATED ADVISING HOURS**
 
 ## Criminal Justice Mentoring Center
 Undergraduate students should be aware that assistance is available for all CJ classes from the department’s volunteer graduate students. Please bring all your course materials with you (syllabus,notes, books, assignments, etc.) so that the graduate students may better assist you. The Mentoring Center is located on the 5th floor of Gladfelter Hall, room 544. You can view the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Mentoring%20Center.pdf) to see the specifics of how we can assist you!
@@ -30,9 +29,3 @@ Temple University provides programs that support students in building their rese
 
 ## Disability Services And Resources
 Temple offers a range of comprehensive services designed to support and encourage students with medical, visual, hearing, physical, learning, and psychological disabilities. Please visit [Disability Services and Resources](http://www.temple.edu/disability/).
-
-## Virtual Student Foreign Service
-The United States Department of State offers an innovative eInternship program for students to serve Virtual Student Foreign Service Internships. The deadline for the applications is **July 26, 2017**. Complete instructions are on the State Department website. See the links below for more information on the eInternships which include 533 different virtual projects.
-
-- [Virtual Student Foreign Service](http://www.state.gov/vsfs/)
-- [2017 - 2018 Virtual Student Foreign Service (VSFS) eInternship](https://www.usajobs.gov/GetJob/ViewDetails/471416100)
