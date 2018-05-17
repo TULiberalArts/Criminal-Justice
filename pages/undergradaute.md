@@ -23,19 +23,11 @@ sidebar-content: |
    
    ___
    
-   **Administrator:**  
-   Jessica Brennan  
-   708 Gladfelter Hall   
-   [(215) 204-7577](tel:2152047577)  
-   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
-   
-   ___
-
-   **Student Advisor:**  
-   Stephanie Ridgeway
-   509 Gladfelter Hall     
-   [(215) 204-7919](tel:2152047919)   
-   [shardy01@temple.edu](mailto:shardy01@temple.edu)  
+   **Assistant Administrator:**  
+   Tycina Lefwich   
+   508 Gladfelter Hall    
+   [(215)-204-1376](tel:2152041376)    
+   [tcousin@temple.edu](mailto:tcousin@temple.edu)    
 ---
 A criminal justice degree can help you make a difference in the world. Whether you want to investigate crimes, prosecute the law or fight for criminal justice reform, a Temple University education will give you the knowledge you need to forge your path. At the College of Liberal Arts, criminal justice experts teach students in our [minor](#minor-in-criminal-justice), [major](#bachelor-of-arts-in-criminal-justice), [honors](#criminal-justice-honors-program) and [4+1 programs](#criminal-justice-4-1-ba-ma) how to navigate the world of criminal justice.
 
