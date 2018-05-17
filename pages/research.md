@@ -9,17 +9,6 @@ published: true
 ![Research]({{site.baseurl}}/media/resized research1.png){:.img-right}
 Temple’s Department of Criminal Justice consists of an eclectic body of scholars committed to deepening our understanding of crime, governance and social justice. We emphasize inter-disciplinary and multi-method inquiries that make a difference to policy and practice. We pursue cutting-edge research and innovation that draws from and extends many strands of social science, including criminology and criminal justice, geography, history, experimental psychology, social psychology, social work, sociology, and social ecology. We explore critical issues in Philadelphia and across the United States in the context of global developments and concerns.
 
-## Center for Security and Crime Science
-![CSCS]({{site.baseurl}}/media/resized CSCS.png){:.img-right}
-The [Center for Security and Crime Science](https://develop.cla.temple.edu/center-for-security-and-crime-science/) (housed in the Department of Criminal Justice at Temple University) is the first center in the United States devoted to Crime Science. In the 21st Century, thinking about crime has expanded in scope to move beyond domestic concerns and security has become more broadly construed as dealing with issues of public safety and social harm. Crime is now the business of private as well as public agencies, formal as well as informal entities, all seeking to address multiple levels of security concerns.
-
-The following list contains the department and centers' full projects, research and results: 
-- [The Philadelphia Predictive Policing Experiment](/center-for-security-and-crime-science/projects/#the-philadelphia-predictive-policing-experiment)
-- [The Philadelphia Policing Tactics Experiment](/center-for-security-and-crime-science/projects/#the-philadelphia-policing-tactics-experiment)
-- [The Philadelphia Foot Patrol Experiment](/center-for-security-and-crime-science/projects#the-philadelphia-foot-patrol-experiment)
-- [The Crime Reduction Impact of CCTV in Philadelphia](/center-for-security-and-crime-science/projects/#the-crime-reduction-impact-of-cctv-in-philadelphia)
-- [PROVE: Predictive Policing Software](/center-for-security-and-crime-science/projects/#prove-predictive-policing-software)
-
 ## Rehabilitation and Behavior Change
 Rehabilitation and behavior change focuses on research involving high-risk offenders and criminal behaviors that include criminal and violent offending, recidivism, delinquency, substance use, and HIV risk behaviors.
  
@@ -322,17 +311,16 @@ _Affiliated faculty_: [Kate Auerhahn](https://liberalarts.temple.edu/academics/f
 
 Description: Over the last three decades, the US prison population grew dramatically, largely fueled by the enforcement of policies associated with the War on Drugs.  At the same time, the American economic system underwent radical transformation, characterized by growth in highly-skilled sector occupations and decline in unskilled jobs as a result of automation and foreign outsourcing, as well as declines in labor demand generally, as evidenced by three years of a “slack” labor market.  Current trends in criminal justice, such as increased interest in reentry and in reducing rates of return for former prisoners, as well as the growing movement toward drug policy reform, if continued, will ultimately result in the decarceration and reintroduction of large numbers of men and women into the labor market, the vast majority of whom are qualified for (at best) unskilled occupations.  These individuals are largely superfluous to the current economic system; given the cultural and social primacy of remunerative employment, the integration of these men and women into modern American society presents a significant social policy challenge.  Because the American economy is unlikely to evolve in ways that will absorb these individuals, alternative approaches to addressing both the labor market discrepancy and the consequent implications for crime merit exploration. This project focuses on the idea of citizenship rights, and the idea of Guaranteed Basic Income, modeling a comparison of the costs of such a policy as compared to those of incarceration over the life course.
 
-## Research Resources
+## Center for Security and Crime Science
+![CSCS]({{site.baseurl}}/media/resized CSCS.png){:.img-right}
+The [Center for Security and Crime Science](https://develop.cla.temple.edu/center-for-security-and-crime-science/) (housed in the Department of Criminal Justice at Temple University) is the first center in the United States devoted to Crime Science. In the 21st Century, thinking about crime has expanded in scope to move beyond domestic concerns and security has become more broadly construed as dealing with issues of public safety and social harm. Crime is now the business of private as well as public agencies, formal as well as informal entities, all seeking to address multiple levels of security concerns.
 
-### Mechanics Of Applying For External Funding Through Temple
-In addition to Temple-sponsored funding for research, many faculty and students also apply for external research funding. Major sources for Criminal Justice funding include, but are not limited to the National Institutes of Health, the National Institute of Justice, and the Bureau of Justice Assistance. Please consult the websites of the specific agencies for current funding solicitations and deadlines.
-
-The Criminal Justice Department’s Research Committee has put together a document to illuminate the process for applying here at Temple. View the [‘Mechanics of Submitting a Grant Proposal for External Funding’](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20External%20Funding%20Guide.pdf) (pdf) guide. This document should be viewed as a resource rather than the final word in how to apply.
-
-### Human Sunjects Approval
-The Criminal Justice Department is committed to the highest ethical standards when conducting research involving human subjects. We follow the guidelines set out by Temple University and the federal government. Visit the [Temple Institutional Review Board](http://research.temple.edu/irb) home page.
-
-Faculty in Criminal Justice endeavor to provide undergraduate students with ‘hands on’ class-related activities that often require them to do fieldwork or analyze data. Each faculty member is required to obtain approval from the IRB for these activities during the semester in which they are to be completed. The **IRB Approval Guide for Undergraduate Classroom Activities** document (under construction) provides details on the necessary paperwork to be filed by the faculty member. It also contains instructions for how undergraduate students should sign up and complete the undergraduate student version of the IRB training course.
+The following list contains the centers' full projects, research and results: 
+- [The Philadelphia Predictive Policing Experiment](/center-for-security-and-crime-science/projects/#the-philadelphia-predictive-policing-experiment)
+- [The Philadelphia Policing Tactics Experiment](/center-for-security-and-crime-science/projects/#the-philadelphia-policing-tactics-experiment)
+- [The Philadelphia Foot Patrol Experiment](/center-for-security-and-crime-science/projects#the-philadelphia-foot-patrol-experiment)
+- [The Crime Reduction Impact of CCTV in Philadelphia](/center-for-security-and-crime-science/projects/#the-crime-reduction-impact-of-cctv-in-philadelphia)
+- [PROVE: Predictive Policing Software](/center-for-security-and-crime-science/projects/#prove-predictive-policing-software)
 
 ## Additional Research Projects and Resources:
 - [The Impact of Philadelphia’s Public CCTV Cameras: PRELIMINARY FINDINGS FROM A TIME SERIES ANALYSIS](http://www.cla.temple.edu/cj/files/2014/09/coryrevised1.mp3)
