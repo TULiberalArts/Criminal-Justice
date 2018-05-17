@@ -17,7 +17,7 @@ Potential career paths include:
 - **Corrections**: Adult/Juvenile Parole Officer, Correctional Officer, Case worker, Mental health counselor, - Youth Counselor
 - **Human Services**: Mental Health Technician, Child and Family Social Worker, Youth Advocate, Crisis Counselor, Victims Advocate, Therapist
 - **Legal/Courts**: Prosecutor, Defense Attorney, Paralegal, Legal Assistant, Court Clerk, Adult Probation Officer, Juvenile Court Probation Officer, Court Administration
-- Researcher, Analyst
+- **Research**: Researcher, Analyst, Policy Development
 
 ## Networking Opportunities
 ![CJ Event]({{site.baseurl}}/media/resized CJ Event.jpg){:.img-right}
@@ -25,7 +25,6 @@ Through our faculty’s contacts with practitioners in courts, corrections and p
 
 ### Career Opportunities
 [Temple’s Career Services](http://www.temple.edu/provost/careercenter/) is a central resource and provides resume critiques, interview techniques, local job fair information, and current available job listings. The resources available through Temple’s Career Services equips students with vital tools to navigate in the current work force. Students may also wish to consider furthering their studies in our graduate program which offers Master’s and Doctoral degree programs.
-- [Student Employment Opportunities](http://www.cla.temple.edu/cj/resources/student-employment-opportunities/)**THIS CONTENT NEEDS TO BE HOUSED ELSEWHERE**
 
 ___
 
