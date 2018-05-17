@@ -69,3 +69,7 @@ High-achieving undergraduates will be invited by the faculty of the Criminal Jus
 [Learn more about the 4+1 BA/MA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/).
 
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
+
+## Internships
+As a Criminal Justice major you can choose from numerous internship opportunities. We have an extensive list of sites from which to choose or you can suggest a site of special interest to you. Most sites are accepted if they give you the opportunity to come in contact with the criminal justice system or have an anti-violence component. You will do a certain number of hours of work per week at your site. It is an intensive experience of hands on education. 
+- View the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Undergraduate%20Internships.pdf) to learn more about requirements, courses, placement and contacts.
