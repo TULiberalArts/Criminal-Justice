@@ -10,14 +10,14 @@ published: true
 Temple’s Department of Criminal Justice consists of an eclectic body of scholars committed to deepening our understanding of crime, governance and social justice. We emphasize inter-disciplinary and multi-method inquiries that make a difference to policy and practice. We pursue cutting-edge research and innovation that draws from and extends many strands of social science, including criminology and criminal justice, geography, history, experimental psychology, social psychology, social work, sociology, and social ecology. We explore critical issues in Philadelphia and across the United States in the context of global developments and concerns.
 
 **Our following areas of research and projects are as follows:**
-- Rehabilitation and Behavior Change
-- Systems of Criminal Justice, Law, and Procedural Justice
-- Intersection of Public Health, Crime and Justice
-- Geography of Crime and Justice
-- Policing, Security and Crime Prevention
-- Youth Crime, Delinquency Prevention and Juvenile Justice
-- Criminal Behavior and Community Crime Rates
-- Policy Analysis and Program Evaluation
+- [Rehabilitation and Behavior Change](https://develop.cla.temple.edu/criminal-justice/research/rehabilitation-and-behavior-change)
+- [Systems of Criminal Justice, Law, and Procedural Justice](https://develop.cla.temple.edu/criminal-justice/research/systems-of-criminal-justice-law-and-procedural-justice)
+- [Intersection of Public Health, Crime and Justice](https://develop.cla.temple.edu/criminal-justice/research/intersection-of-public-health-crime-and-justice)
+- [Geography of Crime and Justice](https://develop.cla.temple.edu/criminal-justice/research/geography-of-crime-and-justice)
+- [Policing, Security and Crime Prevention](https://develop.cla.temple.edu/criminal-justice/research/policing-security-and-crime-prevention)
+- [Youth Crime, Delinquency Prevention and Juvenile Justice](https://develop.cla.temple.edu/criminal-justice/research/youth-crime-delinquency-prevention-and-juvenile-justice)
+- [Criminal Behavior and Community Crime Rates](https://develop.cla.temple.edu/criminal-justice/research/criminal-behavior-and-community-crime-rates)
+- [Policy Analysis and Program Evaluation](https://develop.cla.temple.edu/criminal-justice/research/policy-analysis-and-program-evaluation)
 
 ## Center for Security and Crime Science
 ![CSCS]({{site.baseurl}}/media/resized CSCS.png){:.img-right}
