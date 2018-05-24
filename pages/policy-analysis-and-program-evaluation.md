@@ -1,7 +1,7 @@
 ---
 title: Policy Analysis and Program Evaluation
 permalink: /research/policy-analysis-and-program-evaluation/
-layout: page
+layout: tla_page
 keywords: 'criminal justice research, research projects'
 description: >-
 published: true

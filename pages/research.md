@@ -1,7 +1,7 @@
 ---
 title: Research
 permalink: /research/
-layout: page
+layout: tla_page
 keywords: 'criminal justice research, research projects, center for security and crime science'
 description: >-
 published: true
@@ -23,7 +23,7 @@ Temple’s Department of Criminal Justice consists of an eclectic body of schola
 ![CSCS]({{site.baseurl}}/media/resized CSCS.png){:.img-right}
 The [Center for Security and Crime Science](www.develop.cla.temple.edu/center-for-security-and-crime-science/) (housed in the Department of Criminal Justice at Temple University) is the first center in the United States devoted to Crime Science. In the 21st Century, thinking about crime has expanded in scope to move beyond domestic concerns and security has become more broadly construed as dealing with issues of public safety and social harm. Crime is now the business of private as well as public agencies, formal as well as informal entities, all seeking to address multiple levels of security concerns.
 
-The following list contains the centers' full projects, research and results: 
+The following list contains the centers' full projects, research and results:
 - [The Philadelphia Predictive Policing Experiment](www.develop.cla.temple.edu/center-for-security-and-crime-science/projects/#the-philadelphia-predictive-policing-experiment)
 - [The Philadelphia Policing Tactics Experiment](www.develop.cla.temple.edu/center-for-security-and-crime-science/projects/#the-philadelphia-policing-tactics-experiment)
 - [The Philadelphia Foot Patrol Experiment](www.develop.cla.temple.edu/center-for-security-and-crime-science/projects#the-philadelphia-foot-patrol-experiment)

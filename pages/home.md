@@ -1,11 +1,11 @@
 ---
 title: Home
 permalink: /
-layout: home3
+layout: tla_home
 keywords: 'major, minor, academic offerings, criminal justice students'
 feature: true
 feature-title: >-
-  Committed to Deepening Our Understanding of Crime, Governance and Social Justice 
+  Committed to Deepening Our Understanding of Crime, Governance and Social Justice
 feature-body: >-
   The criminal justice system has three major components: the courts, law
   enforcement, and corrections. Learn how these three components
@@ -17,7 +17,7 @@ feature-image: media/hero_bg.png
 ## A Practice-Focused Intellectual Experience
 Students often debate issues such as police legitimacy, victims’ rights, mass incarceration, fairness in sentencing, and reintegration of formerly incarcerated individuals, as well as a wide variety of other topics. Criminal Justice majors make a difference by working in various criminal justice agencies, becoming attorneys and attending graduate school.
         
-## Academic Offerings 
+## Academic Offerings
 - [BA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/ba-criminal-justice/)
 - [Minor in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/minor-criminal-justice/)
 - [MA in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/)
@@ -27,27 +27,27 @@ Students often debate issues such as police legitimacy, victims’ rights, mass 
 - [PhD in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-phd/)
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Undergraduate: A Practice-Focused Intellectual Experience" 
-    content="Engage in a multi-disciplinary approach to the study of crime, offenders, and victims, as well as <br/>the agencies, goals, laws, policies, and processes of the criminal justice system" 
-    image="" 
-    button-link="undergraduate" 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="Undergraduate: A Practice-Focused Intellectual Experience"
+    content="Engage in a multi-disciplinary approach to the study of crime, offenders, and victims, as well as <br/>the agencies, goals, laws, policies, and processes of the criminal justice system"
+    image=""
+    button-link="undergraduate"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Graduate: Policy-Oriented Research and Training" 
-      content="A dynamic environment in which faculty, with graduate students, conduct research at the local, regional, national and international levels" 
-      image="" 
-      button-link="graduate" 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="Graduate: Policy-Oriented Research and Training"
+      content="A dynamic environment in which faculty, with graduate students, conduct research at the local, regional, national and international levels"
+      image=""
+      button-link="graduate"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Get Involved with an Internship" 
-        content="NEED DESCRIPTION" 
-        image="" 
-        button-link="/criminal-justice/student-life/#internships" 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="Get Involved with an Internship"
+        content="NEED DESCRIPTION"
+        image=""
+        button-link="/criminal-justice/student-life/#internships"
         button-text="Learn More" %}
       </div>
 </div>

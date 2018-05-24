@@ -1,12 +1,12 @@
 ---
 title: Geography of Crime and Justice
 permalink: /research/geography-of-crime-and-justice/
-layout: page
+layout: tla_page
 keywords: 'criminal justice research, research projects'
 description: >-
 published: true
 ---
-## Geography of Crime and Justice 
+## Geography of Crime and Justice
 
 _Project Title_: **Crime in and around neighborhood parks: Bad parks, bad neighborhoods, or both?** <br>
 _Affiliated Faculty_: [Elizabeth Groff](https://liberalarts.temple.edu/academics/faculty/groff-elizabeth) and [Ralph Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ralph) <br>
@@ -34,12 +34,12 @@ Affiliated Faculty: [Ralph B. Taylor](https://liberalarts.temple.edu/academics/f
 
 Description: This NIJ-funded study examined connections between jurisdiction-level demographic structure, land use, street networks and changing violent and property crime rates in the first decade of the 21st Century in the nine county Philadelphia Metropolitan region. Results suggest increasing spatial inequality in violent crime across the region, and impacts of large scale commercial sites on property crime rates. Implications emerge for cross-jurisdictional police cooperation.
  
-_Project Title_: **Community Criminology Crossroads** <br> 
+_Project Title_: **Community Criminology Crossroads** <br>
 _Affiliated Faculty_: [Ralph B. Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ralph) <br>
 
 Description: This review of almost 100 years of community patterns of crime and delinquency highlights four critical issues blocking further development in our understanding of the causes and consequences of crime and delinquency ecological patterns: temporal scaling, spatial scaling, ecological construct validation, and selection (NYU Press, 2015).
   
-_Project Title_: **Bail Prediction: Exploring the Role of Neighborhood Context in Philadelphia** <br> 
+_Project Title_: **Bail Prediction: Exploring the Role of Neighborhood Context in Philadelphia** <br>
 _Affiliated Faculty_: [E. Rely Vîlcică](https://liberalarts.temple.edu/academics/faculty/v-lcic-e-rely) <br>
 
 Description: This study (2015, Criminal Justice & Behavior) examined neighborhood effects on defendant pretrial performance. Specifically, the study looked at whether there was neighborhood-level variation in defendants’ failure-to-appear for trial and pretrial criminal conduct and explored the impact on these outcomes of neighborhood structural conditions such as socioeconomic status, stability, and racial composition. Prior bail prediction research has relied only on individual-level attributes. This paper, therefore, for the first time provided a novel perspective in recognizing the role of community context in empirical prediction of bail outcomes. The findings have important implications for bail decisionmaking policy and are relevant for the validity of the contemporary theories that emphasize the community context of crime in shaping deviant behavior.

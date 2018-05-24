@@ -17,7 +17,7 @@ sidebar-content: |
    
    **Undergraduate Chair:**  
    Jennifer Wood  
-   548 Gladfelter Hall 
+   548 Gladfelter Hall
    [(215)204-8055](tel:2152048055)
    [woodj@temple.edu](mailto:woodj@temple.edu)  
    
@@ -42,7 +42,7 @@ The mission of the Bachelor of Arts program in Criminal Justice is to foster a c
 Our faculty members have spent years working in the criminal justice field and bring their research and experience
 into the classroom. They also bring a wide variety of contacts that translate into interesting guest speakers and networking opportunities with those who work in all facets of criminal justice.
 
-## Bachelor of Arts in Criminal Justice 
+## Bachelor of Arts in Criminal Justice
 The Bachelor of Arts in Criminal Justice provides a comprehensive understanding of: the nature of crime, criminals and criminal law; the goals, organizations, occupations and rules that make up the criminal justice system; and the methods of learning that are utilized by scholars of crime and criminal justice. Majoring in criminal justice helps to prepare students for careers as practitioners, researchers, and academics in a variety of public and private sector professions in both adult and juvenile systems of justice, at the federal, state, and local levels of government. It also provides the core liberal arts foundations for students interested in alternative career paths or advanced education in law school and graduate programs in criminal justice, criminology, and related social-science fields.
 
 [Learn More About the BA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/ba-criminal-justice/).
@@ -63,5 +63,5 @@ High-achieving undergraduates will be invited by the faculty of the Criminal Jus
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
 
 ## Internships
-As a Criminal Justice major you can choose from numerous internship opportunities. We have an extensive list of sites from which to choose or you can suggest a site of special interest to you. Most sites are accepted if they give you the opportunity to come in contact with the criminal justice system or have an anti-violence component. You will do a certain number of hours of work per week at your site. It is an intensive experience of hands on education. 
+As a Criminal Justice major you can choose from numerous internship opportunities. We have an extensive list of sites from which to choose or you can suggest a site of special interest to you. Most sites are accepted if they give you the opportunity to come in contact with the criminal justice system or have an anti-violence component. You will do a certain number of hours of work per week at your site. It is an intensive experience of hands on education.
 - View the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Undergraduate%20Internships.pdf) to learn more about requirements, courses, placement and contacts.

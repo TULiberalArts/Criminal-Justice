@@ -30,7 +30,7 @@ sidebar-content: |
 ---
 How well do you know the justice system? A criminal justice [master’s degree](#conduct-research-and-learn-in-a-dynamic-environment) can help you, well, master the field. Not content to stop there? The College of Liberal Arts also offers a criminal justice [doctoral program](#conduct-research-and-learn-in-a-dynamic-environment). Attaining either degree will advance your current understanding of law enforcement and empower you to achieve a successful criminal justice career. Learn more about your [financial opportunities](#financial-opportunities) today to see how an advanced criminal justice degree from Temple University can fit into your life.
 
-## Conduct Research and Learn in a Dynamic Environment 
+## Conduct Research and Learn in a Dynamic Environment
 ![2015 Grad Students]({{site.baseurl}}/media/resized CJ Grad Students.jpg){:.img-right}
 We are very proud of the Criminal Justice graduate program at Temple University. We offer a [Master of Arts in Criminal Justice](https://liberalarts.temple.edu/admissions/graduate/criminal-justice) and we also have a doctoral program that leads to a [PhD in Criminal Justice](https://liberalarts.temple.edu/admissions/graduate/criminal-justice). Our graduate program comprises a diverse and active faculty that conducts research at the local, regional, national and international levels with our graduate students. Our success to date is evident when you review the wide variety of research grants we receive, the range of publications we (and our students) produce, the reputations of our faculty and the quality of the graduate students we develop, as evidenced by the job placements of our doctoral students.
 

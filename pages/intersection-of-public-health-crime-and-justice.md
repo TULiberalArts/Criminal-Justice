@@ -1,7 +1,7 @@
 ---
 title: Intersection of Public Health, Crime and Justice
 permalink: /research/intersection-of-public-health-crime-and-justice/
-layout: page
+layout: tla_page
 keywords: 'criminal justice research, research projects'
 description: >-
 published: true
@@ -27,7 +27,7 @@ _Affiliated Faculty_: [Steven Belenko](https://liberalarts.temple.edu/academics/
 Description: The goal of the PROSPER project, a collaboration between Public Health Management Corporation (PHMC) and Temple University’s Department of Criminal Justice, is to examine the feasibility, acceptability, and efficacy of integrating Peer Recovery Specialists (PRSs) in an adult drug treatment court.  A growing body of research demonstrates that peer support can facilitate recovery and reduces health care costs, but to date the model has not been tested in criminal justice settings. This study will be the first in the U.S. to assess whether PRSs, working with the Philadelphia Treatment Court (PTC) staff and treatment providers, can help to promote retention, engagement, and ongoing recovery post-graduation. During the first project phase, focus groups and interviews will be conducted with key informants to provide insight into how PRSs can best support PTC clients. During the second project phase, 112 newly enrolled PTC clients will be recruited and randomly assigned to either be connected with a PRS or to receive treatment-as-usual (56 per each condition), and monitored for 9 months. Key indicators such as relapse, re-arrest, and drug court completion will help determine whether clients assigned a PRS have greater program success than those in the control condition. This study will answer important questions regarding how to successfully integrate peer staff into drug courts, and provide preliminary indications of the efficacy of adding PRSs to the treatment court process.
  
 _Project Title_: **CRIME-PA: Crime Model Evaluation for Physical Activity** <br>
-_Funding Agency_: National Heart, Blood and Lung Institute (NIH) <br> 
+_Funding Agency_: National Heart, Blood and Lung Institute (NIH) <br>
 _Affiliated Faculty_: [Caterina Roman](https://liberalarts.temple.edu/academics/faculty/roman-caterina) and [Ralph Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ralph) (subcontractors to UCSD) <br>
 
 Description: The study evaluates a trans-disciplinary conceptual model of the relation of crime and crime-related perceptions to physical activity and other cardiovascular disease-related outcomes across the life span. Research activities include development of reliable measures of crime-related constructs that will be applicable across the life span.

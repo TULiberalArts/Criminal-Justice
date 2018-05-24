@@ -1,7 +1,7 @@
 ---
 title: Faculty
 permalink: /faculty/
-layout: faculty2
+layout: tla_faculty
 keywords: 'criminal justice, faculty, faculty publications'
 description: >-
 published: true
