@@ -65,21 +65,40 @@ Additional financial support is often provided by employment and training opport
 - [Graduate Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate Policies](http://www.temple.edu/grad/policies/index.htm)
 
-## Graduate Faculty
-- [Kate Auerhahn](https://liberalarts.temple.edu/academics/faculty/auerhahn-kate)
-- [Steven Belenko](https://liberalarts.temple.edu/academics/faculty/belenko-steven)
-- [Jamie Fader](https://liberalarts.temple.edu/academics/faculty/fader-jamie)
-- [Elizabeth Groff](https://liberalarts.temple.edu/academics/faculty/groff-elizabeth)
-- [Matt Hiller](https://liberalarts.temple.edu/academics/faculty/hiller-matt)
-- [Ajima Olaghere](https://liberalarts.temple.edu/academics/faculty/olaghere-ajima)
-- [Jerry Ratcliffe](https://liberalarts.temple.edu/academics/faculty/ratcliffe-jerry)
-- [Aunshul Rege](https://liberalarts.temple.edu/academics/faculty/rege-aunshul)
-- [Caterina Roman](https://liberalarts.temple.edu/academics/faculty/roman-caterina)
-- [Cathy Rosen](https://liberalarts.temple.edu/academics/faculty/rosen-cathy)
-- [Ralph Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ralph)
-- [Nicole Van Cleve](https://liberalarts.temple.edu/academics/faculty/van-cleve-nicole)
-- [E. Rely Vîlcică](https://liberalarts.temple.edu/academics/faculty/v-lcic-e-rely)
-- [Jeffrey T. Ward](https://liberalarts.temple.edu/academics/faculty/ward-jeffrey-t)
-- [Wayne Welsh](https://liberalarts.temple.edu/academics/faculty/welsh-wayne)
-- [Jennifer Wood](https://liberalarts.temple.edu/academics/faculty/wood-jennifer)
-- [Alese Wooditch](https://liberalarts.temple.edu/academics/faculty/wooditch-alese)
+___
+
+<div>
+  <h2>Graduate Faculty</h2>
+  </div>
+<div class="container">
+  <div class="row">
+    <div class="col s12 m6" <br>
+      <b></b>
+      <ul>
+        <li><a href="https://liberalarts.temple.edu/academics/faculty/auerhahn-kate" title="Kate Auerhahn">Kate Auerhahn</a></li>
+        <li><a href="https://liberalarts.temple.edu/academics/faculty/belenko-steven" title="Steven Belenko">Steven Belenko</a></li>
+        <li><a href="https://liberalarts.temple.edu/academics/faculty/fader-jamie" title="Jamie Fader">Jamie Fader</a></li>
+        <li><a href="https://liberalarts.temple.edu/academics/faculty/groff-elizabeth" title="Elizabeth Groff">Elizabeth Groff</a></li>
+        <li><a href="https://liberalarts.temple.edu/academics/faculty/hiller-matt" title="Matt Hiller">Matt Hiller</a></li>
+        <li><a href="https://liberalarts.temple.edu/academics/faculty/olaghere-ajima" title="Ajima Olaghere">Ajima Olaghere</a></li>
+        <li><a href="https://liberalarts.temple.edu/academics/faculty/ratcliffe-jerry" title="Jerry Ratcliffe">Jerry Ratcliffe</a></li>
+        <li><a href="https://liberalarts.temple.edu/academics/faculty/rege-aunshul" title="Aunshul Rege">Aunshul Rege</a></li>
+        <li><a href="https://liberalarts.temple.edu/academics/faculty/roman-caterina" title="Caterina Roman">Caterina Roman</a></li>
+        </ul>
+    </div>
+
+    <div class="row">
+      <div class="col s12 m6" <br>
+        <b></b>
+        <ul>   
+          <li><a href="https://liberalarts.temple.edu/academics/faculty/rosen-cathy" title="Cathy Rosen">Cathy Rosen</a></li>
+          <li><a href="https://liberalarts.temple.edu/academics/faculty/taylor-ralph" title="Ralph Taylor">Ralph Taylor</a></li>
+          <li><a href="https://liberalarts.temple.edu/academics/faculty/van-cleve-nicole" title="Nicole Van Cleve">Nicole Van Cleve</a></li>
+          <li><a href="https://liberalarts.temple.edu/academics/faculty/v-lcic-e-rely" title="E. Rely Vîlcică">E. Rely Vîlcică</a></li>
+          <li><a href="https://liberalarts.temple.edu/academics/faculty/ward-jeffrey-t" title="Jeffrey T. Ward">Jeffrey T. Ward</a></li>
+          <li><a href="https://liberalarts.temple.edu/academics/faculty/welsh-wayne" title="Wayne Welsh">Wayne Welsh</a></li>
+          <li><a href="https://liberalarts.temple.edu/academics/faculty/wooditch-alese" title="Alese Wooditch">Alese Wooditch</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
