@@ -1,7 +1,7 @@
 ---
 title: Graduate
 permalink: /graduate/
-layout: page
+layout: graduate_page
 description: >-
 keywords: 'masters, phd, admissions, careers, research, financing opportunities, graduate faculty'
 published: true
