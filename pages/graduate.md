@@ -86,7 +86,6 @@ ___
         <li><a href="https://liberalarts.temple.edu/academics/faculty/roman-caterina" title="Caterina Roman">Caterina Roman</a></li>
         </ul>
     </div>
-
     <div class="row">
       <div class="col s12 m6" <br>
         <b></b>
