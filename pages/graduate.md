@@ -64,3 +64,5 @@ Additional financial support is often provided by employment and training opport
 - [Graduate Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate Policies](http://www.temple.edu/grad/policies/index.htm)
+
+___
