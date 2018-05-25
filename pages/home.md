@@ -26,6 +26,8 @@ Students often debate issues such as police legitimacy, victims’ rights, mass 
 - [Graduate Certification in Crime Science](http://bulletin.temple.edu/graduate/scd/cla/crime-science-certificate/)
 - [PhD in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-phd/)
 
+___
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Undergraduate: A Practice-Focused Intellectual Experience"
