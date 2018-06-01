@@ -1,10 +1,14 @@
 ---
-title: Student Life
-permalink: /student-life/
+# global predefined variables
 layout: tla_page
-keywords: 'internships, pro ranger program, inside out prison exchange program, study abroad, awards and scholarships, graduate student association'
-description: >-
+permalink: /student-life/
 published: true
+# meta-data variables
+title: Student Life
+description: >-
+keywords: 'internships, pro ranger program, inside out prison exchange program, study abroad, awards and scholarships, graduate student association'
+# custom variables
+sidebar: false
 ---
 As a criminal justice degree student, you’ll learn the skills and knowledge needed to administer justice and affect change in the system—but you have to leave the classroom to make either happen. Temple University criminal justice students have access to exciting  [study abroad](#study-abroad-program) opportunities and [other programs](#proranger-philadelphia) that get them out into the world and exposed to real-world aspects of the criminal justice system. And students who need help financing their education can apply to a number of [scholarship and financial aid awards](#awards-and-scholarships).
 
