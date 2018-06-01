@@ -1,10 +1,14 @@
 ---
-title: Intersection of Public Health, Crime and Justice
-permalink: /research/intersection-of-public-health-crime-and-justice/
+# global predefined variables
 layout: tla_page
-keywords: 'criminal justice research, research projects'
-description: >-
+permalink: /research/intersection-of-public-health-crime-and-justice/
 published: true
+# meta-data variables
+title: Intersection of Public Health, Crime and Justice
+description: >-
+keywords: 'criminal justice research, research projects'
+# custom variables
+sidebar: false
 ---
 ## Intersection of Public Health, Crime and Justice
 
