@@ -1,10 +1,14 @@
 ---
-title: Youth Crime, Delinquency Prevention and Juvenile Justice
-permalink: /research/youth-crime-delinquency-prevention-and-juvenile-justice/
+# global predefined variables
 layout: tla_page
-keywords: 'criminal justice research, research projects, center for security and crime science'
-description: >-
+permalink: /research/youth-crime-delinquency-prevention-and-juvenile-justice/
 published: true
+# meta-data variables
+title: Youth Crime, Delinquency Prevention and Juvenile Justice
+description: >-
+keywords: 'criminal justice research, research projects, center for security and crime science'
+# custom variables
+sidebar: false
 ---
 ## Youth Crime, Delinquency Prevention and Juvenile Justice
 
