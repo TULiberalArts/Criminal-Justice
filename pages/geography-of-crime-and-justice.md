@@ -1,10 +1,14 @@
 ---
-title: Geography of Crime and Justice
-permalink: /research/geography-of-crime-and-justice/
+# global predefined variables
 layout: tla_page
-keywords: 'criminal justice research, research projects'
-description: >-
+permalink: /research/geography-of-crime-and-justice/
 published: true
+# meta-data variables
+title: Geography of Crime and Justice
+description: >-
+keywords: 'criminal justice research, research projects'
+# custom variables
+sidebar: false
 ---
 ## Geography of Crime and Justice
 
