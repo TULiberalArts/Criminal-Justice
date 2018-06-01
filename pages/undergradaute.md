@@ -1,33 +1,15 @@
 ---
-title: Undergraduate
+# global predefined variables
+layout: tla_page
 permalink: /undergraduate/
-layout: page
-keywords: 'ba in crimianl jsutice, undergraduate students, minor, accelerated degree, honors program'
-description: >-
 published: true
+# meta-data variables
+title: Undergraduate
+description: >-
+keywords: 'ba in criminal justice, undergraduate students, minor, accelerated degree, honors program'
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Cathy Rosen    
-   529 Gladfelter Hall    
-   [(215)204-1089](tel:2152041089)    
-   [crosen@temple.edu](mailto:crosen@temple.edu)    
-   
-   ___
-   
-   **Undergraduate Chair:**  
-   Jennifer Wood  
-   548 Gladfelter Hall
-   [(215)204-8055](tel:2152048055)
-   [woodj@temple.edu](mailto:woodj@temple.edu)  
-   
-   ___
-   
-   **Assistant Administrator:**  
-   Tycina Lefwich   
-   508 Gladfelter Hall    
-   [(215)-204-1376](tel:2152041376)    
-   [tcousin@temple.edu](mailto:tcousin@temple.edu)    
+sidebar_content: sidebars/undergraduate.html    
 ---
 A criminal justice degree can help you make a difference in the world. Whether you want to investigate crimes, prosecute the law or fight for criminal justice reform, a Temple University education will give you the knowledge you need to forge your path. At the College of Liberal Arts, criminal justice experts teach students in our [minor](#minor-in-criminal-justice), [major](#bachelor-of-arts-in-criminal-justice), [honors](#criminal-justice-honors-program) and [4+1 programs](#criminal-justice-4-1-ba-ma) how to navigate the world of criminal justice.
 
