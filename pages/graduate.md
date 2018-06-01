@@ -1,32 +1,15 @@
 ---
-title: Graduate
-permalink: /graduate/
+# global predefined variables
 layout: graduate_page
+permalink: /graduate/
+published: true
+# meta-data variables
+title: Graduate
 description: >-
 keywords: 'masters, phd, admissions, careers, research, financing opportunities, graduate faculty'
-published: true
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Cathy Rosen    
-   529 Gladfelter Hall    
-   [(215)204-1089](tel:2152041089)    
-   [crosen@temple.edu](mailto:crosen@temple.edu)    
-   
-   ___
-   
-   **Graduate Chair:**  
-   Jamie Fader  
-   552 Gladfelter Hall   
-   [jfader@temple.edu](mailto:jfader@temple.edu)   
-   
-   ___
-   
-   **Assistant Administrator:**  
-   Tycina Lefwich   
-   508 Gladfelter Hall    
-   [(215)-204-1376](tel:2152041376)    
-   [tcousin@temple.edu](mailto:tcousin@temple.edu)      
+sidebar_content: sidebars/graduate.html     
 ---
 How well do you know the justice system? A criminal justice [master’s degree](#conduct-research-and-learn-in-a-dynamic-environment) can help you, well, master the field. Not content to stop there? The College of Liberal Arts also offers a criminal justice [doctoral program](#conduct-research-and-learn-in-a-dynamic-environment). Attaining either degree will advance your current understanding of law enforcement and empower you to achieve a successful criminal justice career. Learn more about your [financial opportunities](#financial-opportunities) today to see how an advanced criminal justice degree from Temple University can fit into your life.
 
