@@ -1,10 +1,14 @@
 ---
-title: Policing, Security and Crime Prevention
-permalink: /research/policing-security-and-crime-prevention/
+# global predefined variables
 layout: tla_page
-keywords: 'criminal justice research, research projects, center for security and crime science'
-description: >-
+permalink: /research/policing-security-and-crime-prevention/
 published: true
+# meta-data variables
+title: Policing, Security and Crime Prevention
+description: >-
+keywords: 'criminal justice research, research projects, center for security and crime science'
+# custom variables
+sidebar: false
 ---
 ## Policing, Security and Crime Prevention
 
