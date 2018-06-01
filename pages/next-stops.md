@@ -1,10 +1,14 @@
 ---
-title: Next Stops
-permalink: /next-stops/
+# global predefined variables
 layout: tla_page
-keywords: 'careers, networking, visit, apply, transfer'
-description: >-
+permalink: /next-stops/
 published: true
+# meta-data variables
+title: Next Stops
+description: >-
+keywords: 'careers, networking, visit, apply, transfer'
+# custom variables
+sidebar: false
 ---
 ## Next Stops:
 ![Shauni graduates police academy]({{site.baseurl}}/media/resized Shauni.jpg){:.img-right}
