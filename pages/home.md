@@ -1,17 +1,22 @@
 ---
-title: Home
-permalink: /
+# global predefined variables
 layout: tla_home
+permalink: /
+published: true
+# meta-data variables
+title: Home
+description: >
 keywords: 'major, minor, academic offerings, criminal justice students'
+# custom variables
+sidebar: false
 feature: true
 feature-title: >-
   Committed to Deepening Our Understanding of Crime, Governance and Social Justice
+feature-image: media/hero_bg.png
 feature-body: >-
   The criminal justice system has three major components: the courts, law
   enforcement, and corrections. Learn how these three components
   function and impact the larger society.
-published: true
-feature-image: media/hero_bg.png
 ---
 ![Susan Barton visits]({{site.baseurl}}/media/resized Susan Barton Visits.jpg){:.img-right}
 ## A Practice-Focused Intellectual Experience
