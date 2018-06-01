@@ -1,10 +1,14 @@
 ---
-title: Policy Analysis and Program Evaluation
-permalink: /research/policy-analysis-and-program-evaluation/
+# global predefined variables
 layout: tla_page
-keywords: 'criminal justice research, research projects'
-description: >-
+permalink: /research/policy-analysis-and-program-evaluation/
 published: true
+# meta-data variables
+title: Policy Analysis and Program Evaluation
+description: >-
+keywords: 'criminal justice research, research projects'
+# custom variables
+sidebar: false
 ---
 ## Policy Analysis and Program Evaluation
 
