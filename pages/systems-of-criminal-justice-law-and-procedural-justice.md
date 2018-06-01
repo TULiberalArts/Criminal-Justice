@@ -1,10 +1,14 @@
 ---
-title: Systems of Criminal Justice, Law and Procedural Justice
-permalink: /research/systems-of-criminal-justice-law-and-procedural-justice/
+# global predefined variables
 layout: tla_page
-keywords: 'criminal justice research, research projects'
-description: >-
+permalink: /research/systems-of-criminal-justice-law-and-procedural-justice/
 published: true
+# meta-data variables
+title: Systems of Criminal Justice, Law and Procedural Justice
+description: >-
+keywords: 'criminal justice research, research projects'
+# custom variables
+sidebar: false
 ---
 ## Systems of Criminal Justice, Law, and Procedural Justice
 
