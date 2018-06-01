@@ -1,10 +1,14 @@
 ---
-title: Criminal Behavior and Community Crime Rates
-permalink: /research/criminal-behavior-and-community-crime-rates/
+# global predefined variables
 layout: tla_page
-keywords: 'criminal justice research, research projects'
-description: >-
+permalink: /research/criminal-behavior-and-community-crime-rates/
 published: true
+# meta-data variables
+title: Criminal Behavior and Community Crime Rates
+description: >-
+keywords: 'criminal justice research, research projects'
+# custom variables
+sidebar: false
 ---
 ## Criminal Behavior and Community Crime Rates
 
