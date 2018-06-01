@@ -1,10 +1,14 @@
 ---
-title: Research
-permalink: /research/
+# global predefined variables
 layout: tla_page
-keywords: 'criminal justice research, research projects, center for security and crime science'
-description: >-
+permalink: /research/
 published: true
+# meta-data variables
+title: Research
+description: >-
+keywords: 'criminal justice research, research projects, center for security and crime science'
+# custom variables
+sidebar: false
 ---
 ![Research]({{site.baseurl}}/media/resized research1.png){:.img-right}
 Temple’s Department of Criminal Justice consists of an eclectic body of scholars committed to deepening our understanding of crime, governance and social justice. We emphasize inter-disciplinary and multi-method inquiries that make a difference to policy and practice. We pursue cutting-edge research and innovation that draws from and extends many strands of social science, including criminology and criminal justice, geography, history, experimental psychology, social psychology, social work, sociology, and social ecology. We explore critical issues in Philadelphia and across the United States in the context of global developments and concerns.
