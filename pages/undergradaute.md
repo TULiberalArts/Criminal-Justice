@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
+  Learn from criminal justice experts in our BA, minor, honors, and 4+1 programs accelerated degree program, in topics such as crime
+  investigation, law prosecution, or criminal justice reform. Study Criminal Justice at the College of Liberal Arts at Temple University.
 keywords: 'ba in criminal justice, undergraduate students, minor, accelerated degree, honors program'
 # custom variables
 sidebar: true
