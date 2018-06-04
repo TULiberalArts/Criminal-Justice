@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
+  See yourself in a career in the field of Criminal Justice with a degree from Temple University’s College of Liberal Arts.
+  Explore potential career paths from Law Enforcement to Human Services. Visit us, know your tranfer options, and apply!
 keywords: 'careers, networking, visit, apply, transfer'
 # custom variables
 sidebar: false
