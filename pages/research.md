@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Research
 description: >-
+  Explore critical issues across the US in research projects that draw from areas in social science, such as criminology, history, 
+  experimental psychology, and sociology. Do more with criminal justice research at Temple University’s College of Liberal Arts.
 keywords: 'criminal justice research, research projects, center for security and crime science'
 # custom variables
 sidebar: false
