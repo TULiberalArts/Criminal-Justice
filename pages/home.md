@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >
+  Deepen your understanding of crime, governance, and social justice by learning how the courts, law enforcement, and corrections function
+  and impact society. Major, Minor, and view our academic offerings in Criminal Justice at Temple University’s College of Liberal Arts.
 keywords: 'major, minor, academic offerings, criminal justice students'
 # custom variables
 sidebar: false
