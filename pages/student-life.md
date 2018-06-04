@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
+  Study abroad, intern with ProRanger Philadelphia, take part in the Inside-Out Prison-Exchange Program, and join the Criminal 
+  Justice Society or Graduate Student Association in the Criminal Justice program at Temple University’s College of Liberal Arts.
 keywords: 'internships, pro ranger program, inside out prison exchange program, study abroad, awards and scholarships, graduate student association'
 # custom variables
 sidebar: false
