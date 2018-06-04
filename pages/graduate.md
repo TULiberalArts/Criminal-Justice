@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
+  Earn a master’s degree or PhD in Criminal Justice from Temple University. Learn more about
+  research, careers, financing opportunities, and graduate faculty at College of Liberal Arts.
 keywords: 'masters, phd, admissions, careers, research, financing opportunities, graduate faculty'
 # custom variables
 sidebar: true
