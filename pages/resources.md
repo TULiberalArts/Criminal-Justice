@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Resources
 description: >-
+  Find all the information you need on advising, mentoring, writing help, the library system, peer teaching,
+  disability services, and virtual student foreign service at Temple University’s College of Liberal Arts.
 keywords: 'advising center, writing center, criminal justice resources, tu library, research and peer teaching, virtual student foreign service'
 # custom variables
 sidebar: false
