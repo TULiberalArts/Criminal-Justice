@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Faculty
 description: >-
+  Meet our world-renowned faculty in the department of Criminal Justice, and view a complete 
+  list of our faculty publications at Temple University’s College of Liberal Arts.
 keywords: 'criminal justice, faculty, faculty publications'
 # custom variables
 sidebar: false
