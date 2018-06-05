@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: graduate_page
+layout: tla_page
 permalink: /graduate/
 published: true
 # meta-data variables
@@ -31,11 +31,11 @@ A number of our Masters students are already employed in the criminal justice fi
 ![Police Recruit Graduation]({{site.baseurl}}/media/resized police-recruit-graduation.jpg){:.img-right}
 Many of our PhD graduates have gone on to tenure-track assistant professorships at institutions such as Drexel University, LaSalle University, University of Ottawa, Louisiana State University, Towson University, University of Louisville, and American University; some have begun their academic careers with postdoctoral research positions at institutions like George Mason University and Vera Institute of Justice. In addition to those embarking on academic careers, a number of our PhD graduates have secured research positions at such varied institutions and agencies as the National Institute of Justice, Justice Research and Statistics Association, the Corporation for National and Community Service, the Center for Drug and Alcohol Studies at the University of Delaware, the Police Department of Redlands, California, and Philadelphia Adult Probation and Parole.
 
-## Financial Opportunities 
+## Financial Opportunities
 The Department of Criminal Justice ranks among Temple’s highest in faculty and student involvement in local and national research activities. This has created a steady stream of grant-funded employment positions providing financial support and the opportunity to develop research skills and graduate theses/dissertations. The doctoral program proudly supports our students through such positions and other sources of financial support.
 
 ### Graduate Students
-Graduate students can get financial support through a variety of university and department teaching and research assistantships, fellowships, and awards. Most assistantships and fellowships carry a stipend plus tuition waiver. Please note that funding opportunities for master’s students are limited, but funded research opportunities are occasionally open for master’s students. 
+Graduate students can get financial support through a variety of university and department teaching and research assistantships, fellowships, and awards. Most assistantships and fellowships carry a stipend plus tuition waiver. Please note that funding opportunities for master’s students are limited, but funded research opportunities are occasionally open for master’s students.
 
 ### PhD Students
 The PhD is a full-time endeavor, with admissions limited to the number of full-time students we can commit funding support to for several years. Beyond the guaranteed period of support, we are extremely proud of our track record and ability to fund doctoral students who are making timely progress toward the completion of their degrees. Please note that no funding decisions can be made until after an applicant is officially admitted to the PhD program. Applicants should also consult the [graduate school webpages](http://www.temple.edu/grad/) for university-wide application deadlines and funding opportunities.
