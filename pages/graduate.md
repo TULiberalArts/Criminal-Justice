@@ -13,7 +13,7 @@ keywords: 'masters, phd, admissions, careers, research, financing opportunities,
 sidebar: true
 sidebar_content: sidebars/graduate.html     
 ---
-How well do you know the justice system? A criminal justice [master’s degree](#conduct-research-and-learn-in-a-dynamic-environment) can help you, well, master the field. Not content to stop there? The College of Liberal Arts also offers a criminal justice [doctoral program](#conduct-research-and-learn-in-a-dynamic-environment). Attaining either degree will advance your current understanding of law enforcement and empower you to achieve a successful criminal justice career. Learn more about your [funding](#financial-opportunities) today to see how an advanced criminal justice degree from Temple University can fit into your life.
+How well do you know the justice system? A criminal justice [master’s degree](#learn-in-a-dynamic-environment) can help you, well, master the field. Not content to stop there? The College of Liberal Arts also offers a criminal justice [doctoral program](#learn-in-a-dynamic-environment). Attaining either degree will advance your current understanding of law enforcement and empower you to achieve a successful criminal justice career. Learn more about your [funding](#funding) today to see how an advanced criminal justice degree from Temple University can fit into your life.
 
 ## Learn in a Dynamic Environment
 ![2015 Grad Students]({{site.baseurl}}/media/resized CJ Grad Students.jpg){:.img-right}
@@ -60,3 +60,4 @@ Employment and training opportunities are available as additional support on ext
 - [Graduate Policies](http://www.temple.edu/grad/policies/index.htm)
 
 ___
+
