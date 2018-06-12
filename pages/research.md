@@ -17,13 +17,26 @@ Temple’s Department of Criminal Justice consists of an eclectic body of schola
 
 **Our following areas of research and projects are as follows:**
 - [Rehabilitation and Behavior Change](https://develop.cla.temple.edu/criminal-justice/research/rehabilitation-and-behavior-change)
+Department faculty has expertise in the area of rehabilitation and behavior change pertaining to high risk and criminal behaviors that include criminal and violent offending and recidivism, delinquency, substance use and HIV risk behaviors.
+
 - [Systems of Criminal Justice, Law, and Procedural Justice](https://develop.cla.temple.edu/criminal-justice/research/systems-of-criminal-justice-law-and-procedural-justice)
+Faculty research has focused on efforts to analyze key developments and contribute to theory related to the operation of systems of criminal justice, the interlocking nature of such systems, as well as aspects of law and case processing and the strengthening of judicial processes.
+
 - [Intersection of Public Health, Crime and Justice](https://develop.cla.temple.edu/criminal-justice/research/intersection-of-public-health-crime-and-justice)
+
 - [Geography of Crime and Justice](https://develop.cla.temple.edu/criminal-justice/research/geography-of-crime-and-justice)
-- [Policing, Security and Crime Prevention](https://develop.cla.temple.edu/criminal-justice/research/policing-security-and-crime-prevention)
+Faculty has published extensively in the area of the geography of crime and justice and has developed methodological techniques that have become widely used in the field. Faculty have examinedthe intersection of the location of crimes and the location of criminals, taking into account aspects of the immediate geographic area such as the street segment or block, as well as the physical and social aspects of theneighborhood.
+
+- [Policing, Security and Crime Prevention](https://develop.cla.temple.edu/criminal-justice/research/policing-security-and-crime-prevention) 
+The department has had particular strengths in research dealing with local policing, police organization, evidence-based policing and aspects of police-community relations.
 - [Youth Crime, Delinquency Prevention and Juvenile Justice](https://develop.cla.temple.edu/criminal-justice/research/youth-crime-delinquency-prevention-and-juvenile-justice)
-- [Criminal Behavior and Community Crime Rates](https://develop.cla.temple.edu/criminal-justice/research/criminal-behavior-and-community-crime-rates)
+The faculty has expertise in a variety of theoretical and policy-relevant aspects of youth crime, delinquency prevention and juvenile justice.
+
+- [Criminal Behavior and Community Crime Rates](https://develop.cla.temple.edu/criminal-justice/research/criminal-behavior-and-community-crime-rates)(traditional criminology/nature of crime, types of crime, cybercrime, terrorism)
+A range of faculty has published theoretically driven works in the area of traditional criminology, and more recently in the area of cybercrime and terrorism. This is an area of critical need currently.
+
 - [Policy Analysis and Program Evaluation](https://develop.cla.temple.edu/criminal-justice/research/policy-analysis-and-program-evaluation)
+Department faculty has an active, ongoing record of involvement with public officials and justice agencies and programs locally and nationally, applying research to enhance knowledge andtheoretical understanding of policies adopted or proposed and their impact on systems. This area also includes work on organizational change and implementation science.
 
 ## Center for Security and Crime Science
 ![CSCS]({{site.baseurl}}/media/resized CSCS.png){:.img-right}
@@ -35,8 +48,3 @@ The following list contains the centers' full projects, research and results:
 - [The Philadelphia Foot Patrol Experiment](www.develop.cla.temple.edu/center-for-security-and-crime-science/projects#the-philadelphia-foot-patrol-experiment)
 - [The Crime Reduction Impact of CCTV in Philadelphia](www.develop.cla.temple.edu/center-for-security-and-crime-science/projects/#the-crime-reduction-impact-of-cctv-in-philadelphia)
 - [PROVE: Predictive Policing Software](www.develop.cla.temple.edu/center-for-security-and-crime-science/projects/#prove-predictive-policing-software)
-
-## Additional Research Projects and Resources:
-- [The Impact of Philadelphia’s Public CCTV Cameras: PRELIMINARY FINDINGS FROM A TIME SERIES ANALYSIS](http://www.cla.temple.edu/cj/files/2014/09/coryrevised1.mp3)
-- [Links in Space and Time between Firearm Arrests and Shootings](http://www.cla.temple.edu/cj/files/2014/10/ResearchfindingsWyant20101.pdf)
-- [Related Publications](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Related%20Publications.pdf)
