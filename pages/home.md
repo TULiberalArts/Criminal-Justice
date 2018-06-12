@@ -6,8 +6,7 @@ published: true
 # meta-data variables
 title: Home
 description: >
-  Deepen your understanding of crime, governance, and social justice by learning how the courts, law enforcement, and corrections function
-  and impact society. Major, Minor, and view our academic offerings in Criminal Justice at Temple University’s College of Liberal Arts.
+  Deepen your understanding of crime, governance, and social justice by learning how the courts, law enforcement, and corrections function and impact society. Major, Minor, and view our academic offerings in Criminal Justice at Temple University’s College of Liberal Arts.
 keywords: 'major, minor, academic offerings, criminal justice students'
 # custom variables
 sidebar: false
@@ -16,9 +15,6 @@ feature-title: >-
   Committed to Deepening Our Understanding of Crime, Governance and Social Justice
 feature-image: media/hero_bg.png
 feature-body: >-
-  The criminal justice system has three major components: the courts, law
-  enforcement, and corrections. Learn how these three components
-  function and impact the larger society.
 ---
 ![Susan Barton visits]({{site.baseurl}}/media/resized Susan Barton Visits.jpg){:.img-right}
 ## A Practice-Focused Intellectual Experience
