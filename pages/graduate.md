@@ -60,4 +60,3 @@ Employment and training opportunities are available as additional support on ext
 - [Graduate Policies](http://www.temple.edu/grad/policies/index.htm)
 
 ___
-
