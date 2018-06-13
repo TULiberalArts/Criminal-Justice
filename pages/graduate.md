@@ -11,7 +11,9 @@ description: >-
 keywords: 'masters, phd, admissions, careers, research, financing opportunities, graduate faculty'
 # custom variables
 sidebar: true
-sidebar_content: sidebars/graduate.html     
+sidebar_content: sidebars/graduate.html
+graduate_faculty: false    
+graduate_faculty_content: components/graduate_faculty.html
 ---
 How well do you know the justice system? A criminal justice [master’s degree](#learn-in-a-dynamic-environment) can help you, well, master the field. Not content to stop there? The College of Liberal Arts also offers a criminal justice [doctoral program](#learn-in-a-dynamic-environment). Attaining either degree will advance your current understanding of law enforcement and empower you to achieve a successful criminal justice career. Learn more about your [funding](#funding) today to see how an advanced criminal justice degree from Temple University can fit into your life.
 
@@ -27,7 +29,7 @@ Our graduate programs are led by a diverse, multidisciplinary, and active facult
 Please visit the [Criminal Justice Graduate Admssions page](https://liberalarts.temple.edu/admissions/graduate/criminal-justice) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Careers
-We are extremely proud of the placement record of our PhD graduates. Most go on to tenure-track academic positions, while others pursue research careers in federal, state, and local agencies or in the private sector. The secret to our success is a model of close faculty-student mentoring and professional development that begins on the first day of the program. The vast majority of our graduate students conduct grant-funded research with faculty that engages directly with community-based organizations and criminal justice agencies, working on problems such as gun violence and substance abuse. 
+We are extremely proud of the placement record of our PhD graduates. Most go on to tenure-track academic positions, while others pursue research careers in federal, state, and local agencies or in the private sector. The secret to our success is a model of close faculty-student mentoring and professional development that begins on the first day of the program. The vast majority of our graduate students conduct grant-funded research with faculty that engages directly with community-based organizations and criminal justice agencies, working on problems such as gun violence and substance abuse.
 
 ![Police Recruit Graduation]({{site.baseurl}}/media/resized police-recruit-graduation.jpg){:.img-right}
 Our PhD graduates have gone on to tenure-track assistant professorships at institutions such as the University of Cincinnati, Rutgers University, Sam Houston State University, Drexel University, LaSalle University, Vancouver Island University, Towson University, and the University of Louisville; some have begun their academic careers with postdoctoral research positions at institutions like George Mason University. In addition to those embarking on academic careers, a number of our PhD graduates have secured research and policy-making positions at such varied institutions and agencies as the National Institute of Justice, Vera Institute of Justice, Research Triangle Institute, Justice Research and Statistics Association, the Police Foundation, the Center for Drug and Alcohol Studies at the University of Delaware, First Judicial District of Pennsylvania Courts, and Philadelphia Adult Probation and Parole.
@@ -42,7 +44,6 @@ Financial support is available to many Ph.D. students through a variety of Unive
 The PhD is a full-time endeavor. It is our standard practice to limit admissions to the PhD program to the number of full-time students to whom we can commit funding support for a period of at least four years. Beyond the guaranteed period of support, we are extremely proud of our track record and ability to fund doctoral students who are making timely progress toward the completion of their degrees.
 
 ## Graduate Student Association
- Welcome incoming and prospective students!
  	 
 Choosing the appropriate graduate program can be stressful and overwhelming. We are here to provide information in the decision-making process. If you are interested in graduate studies in the Department, how to navigate administrative paperwork, or where to live and what to do in Philly feel free to contact a graduate student. We will do whatever we can to ease your transition into graduate studies in the Department of Criminal Justice.	 Choosing the appropriate graduate program can be stressful and overwhelming. We are here to provide information in the decision-making process. If you are interested in graduate studies in the Department, how to navigate administrative paperwork, or where to live and what to do in Philly feel free to contact a graduate student. We will do whatever we can to ease your transition into graduate studies in the Department of Criminal Justice.
  	 
