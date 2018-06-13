@@ -43,7 +43,7 @@ Learn more about the [Criminal Justice Honors Program](http://bulletin.temple.ed
 ## Criminal Justice 4+1 BA/MA
 High-achieving undergraduates will be invited by the faculty of the Criminal Justice Department to apply for the BA/MA 5 year program. Students admitted to this program begin taking graduate courses along with their undergraduate curriculum in their last three undergraduate semesters. They then complete the remaining requirements of a MA in Criminal Justice in the subsequent year. Eligible students will receive notification at the end of their Sophomore year, and applications will be accepted until October 7th of their Junior year.
 
-Learn more about the [4+1 BA/MA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/).
+Learn more about the [4+1 BA/MA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice#criminaljustice4+1bama).
 
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
 
