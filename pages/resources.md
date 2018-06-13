@@ -12,10 +12,12 @@ keywords: 'advising center, writing center, criminal justice resources, tu libra
 # custom variables
 sidebar: false
 ---
-Considering earning your criminal justice degree at Temple University but aren’t sure where to get started? You’ve come to the right place! Below you’ll find all the info you need on [advising](#advising-center), [mentoring](#criminal-justice-mentoring-center), [writing help](#writing-center), the [library system](#tu-library), [peer teaching](#opportunities-for-research-and-peer-teaching), [disability services](#disability-services-and-resources) and even [virtual student foreign service](#virtual-student-foreign-service).
+Considering earning your criminal justice degree at Temple University but aren’t sure where to get started? You’ve come to the right place! Below you’ll find all the info you need on [advising](#advising-center), [mentoring](#criminal-justice-mentoring-center), [writing help](#writing-center), the [library system](#tu-library), [peer teaching](#opportunities-for-research-and-peer-teaching) and [disability services](#disability-services-and-resources).
 
 ## Criminal Justice Advising Center
 The mission of the Criminal Justice Advising office is to assist students with planning and implementing rosters, provide students with career information and to help students navigate through the college years. Our office posts information about scholarships, jobs, internships and social organizations that will maximize the students’ college experience.
+
+If you have any questions about advising please contact our academiuc advisor [Corissa Reilly](mailto:corissa.reilly@temple.edu).
 
 ## Criminal Justice Mentoring Center
 Undergraduate students should be aware that assistance is available for all CJ classes from the department’s volunteer graduate students. Please bring all your course materials with you (syllabus,notes, books, assignments, etc.) so that the graduate students may better assist you. The Mentoring Center is located on the 5th floor of Gladfelter Hall, room 544. You can view the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Mentoring%20Center.pdf) to see the specifics of how we can assist you!
