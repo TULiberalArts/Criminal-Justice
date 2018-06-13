@@ -39,7 +39,9 @@ A range of faculty has published theoretically driven works in the area of tradi
 - [Policy Analysis and Program Evaluation](https://develop.cla.temple.edu/criminal-justice/research/policy-analysis-and-program-evaluation)
 Department faculty has an active, ongoing record of involvement with public officials and justice agencies and programs locally and nationally, applying research to enhance knowledge andtheoretical understanding of policies adopted or proposed and their impact on systems. This area also includes work on organizational change and implementation science.
 
-#### Center for Security and Crime Science 
+___
+
+### Center for Security and Crime Science 
 ![CSCS]({{site.baseurl}}/media/resized CSCS.png){:.img-right}
 The [Center for Security and Crime Science](www.develop.cla.temple.edu/center-for-security-and-crime-science/) (housed in the Department of Criminal Justice at Temple University) is the first center in the United States devoted to Crime Science. In the 21st Century, thinking about crime has expanded in scope to move beyond domestic concerns and security has become more broadly construed as dealing with issues of public safety and social harm. Crime is now the business of private as well as public agencies, formal as well as informal entities, all seeking to address multiple levels of security concerns.
 
