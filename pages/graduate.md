@@ -21,14 +21,14 @@ How well do you know the justice system? A criminal justice [master’s degree](
 ![2015 Grad Students]({{site.baseurl}}/media/resized CJ Grad Students.jpg){:.img-right}
 Our graduate programs are led by a diverse, multidisciplinary, and active faculty that conducts research at the local, regional, national and international levels with our graduate students. Our success to date is evident when you review the wide variety of research grants we receive, the range of publications we (and our students) produce, and the reputations of our faculty and the quality of the graduate students we develop, as evidenced by the job placements of our doctoral students.
 
-{% include {{ page.graduate_faculty_content }} %}
-
 - Learn More About the [MA in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/)<br>
 - Learn More About the [PhD in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-phd/)<br>
 - Learn more about the [Accelerated Masters Degree 4+1 BA/MA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice#criminaljustice+1acceleratedbamaprogram)
 
 ## Admissions Process
 Please visit the [Criminal Justice Graduate Admssions page](https://liberalarts.temple.edu/admissions/graduate/criminal-justice) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+
+{% include {{ page.graduate_faculty_content }} %}
 
 ## Careers
 We are extremely proud of the placement record of our PhD graduates. Most go on to tenure-track academic positions, while others pursue research careers in federal, state, and local agencies or in the private sector. The secret to our success is a model of close faculty-student mentoring and professional development that begins on the first day of the program. The vast majority of our graduate students conduct grant-funded research with faculty that engages directly with community-based organizations and criminal justice agencies, working on problems such as gun violence and substance abuse.
@@ -58,4 +58,3 @@ The Criminal Justice Graduate Student Association (CJGSA) is an active group tha
 - [Graduate Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate Policies](http://www.temple.edu/grad/policies/index.htm)
-___
