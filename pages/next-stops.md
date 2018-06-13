@@ -25,12 +25,11 @@ Potential career paths include:
 - **Legal/Courts**: Prosecutor, Defense Attorney, Paralegal, Legal Assistant, Court Clerk, Adult Probation Officer, Juvenile Court Probation Officer, Court Administration
 - **Research**: Researcher, Analyst, Policy Development
 
-## Networking Opportunities
+## Career Opportunities
 ![CJ Event]({{site.baseurl}}/media/resized CJ Event.jpg){:.img-right}
-Through our faculty’s contacts with practitioners in courts, corrections and policing, as well as via active involvement by undergraduates in internships and research activities, students are given excellent grounding for employment, law school or graduate school.
+[Temple’s Career Services](http://www.temple.edu/provost/careercenter/) is a central resource and provides resume critiques, interview techniques, local job fair information and current available job listings. The resources available through Temple’s Career Services equips students with vital tools to navigate in the current work force. Students may also wish to consider furthering their studies in our graduate program which offers Master’s and Doctoral degree programs.
 
-### Career Opportunities
-[Temple’s Career Services](http://www.temple.edu/provost/careercenter/) is a central resource and provides resume critiques, interview techniques, local job fair information, and current available job listings. The resources available through Temple’s Career Services equips students with vital tools to navigate in the current work force. Students may also wish to consider furthering their studies in our graduate program which offers Master’s and Doctoral degree programs.
+In addition, through our faculty’s contacts with practitioners in courts, corrections and policing, as well as via active involvement by undergraduates in internships and research activities, students are given excellent grounding for employment, law school or graduate school.
 
 ___
 
