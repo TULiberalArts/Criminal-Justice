@@ -56,5 +56,5 @@ The Criminal Justice Graduate Student Association (CJGSA) is an active group tha
 - [Graduate Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate Policies](http://www.temple.edu/grad/policies/index.htm)
-
+{% include {{ page.graduate_faculty_content }} %}
 ___
