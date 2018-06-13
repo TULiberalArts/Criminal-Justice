@@ -12,6 +12,7 @@ keywords: 'criminal justice research, research projects, center for security and
 # custom variables
 sidebar: false
 ---
+## Areas of Research and Projects
 ![Research]({{site.baseurl}}/media/resized research1.png){:.img-right}
 Temple’s Department of Criminal Justice consists of an eclectic body of scholars committed to deepening our understanding of crime, governance and social justice. We emphasize inter-disciplinary and multi-method inquiries that make a difference to policy and practice. We pursue cutting-edge research and innovation that draws from and extends many strands of social science, including criminology and criminal justice, geography, history, experimental psychology, social psychology, social work, sociology, and social ecology. We explore critical issues in Philadelphia and across the United States in the context of global developments and concerns.
 
@@ -38,7 +39,7 @@ A range of faculty has published theoretically driven works in the area of tradi
 - [Policy Analysis and Program Evaluation](https://develop.cla.temple.edu/criminal-justice/research/policy-analysis-and-program-evaluation)
 Department faculty has an active, ongoing record of involvement with public officials and justice agencies and programs locally and nationally, applying research to enhance knowledge andtheoretical understanding of policies adopted or proposed and their impact on systems. This area also includes work on organizational change and implementation science.
 
-## Center for Security and Crime Science
+**Affiliated Center** 
 ![CSCS]({{site.baseurl}}/media/resized CSCS.png){:.img-right}
 The [Center for Security and Crime Science](www.develop.cla.temple.edu/center-for-security-and-crime-science/) (housed in the Department of Criminal Justice at Temple University) is the first center in the United States devoted to Crime Science. In the 21st Century, thinking about crime has expanded in scope to move beyond domestic concerns and security has become more broadly construed as dealing with issues of public safety and social harm. Crime is now the business of private as well as public agencies, formal as well as informal entities, all seeking to address multiple levels of security concerns.
 
