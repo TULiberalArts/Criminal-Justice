@@ -12,7 +12,6 @@ keywords: 'careers, networking, visit, apply, transfer'
 # custom variables
 sidebar: false
 ---
-## Next Stops:
 ![Shauni graduates police academy]({{site.baseurl}}/media/resized Shauni.jpg){:.img-right}
 Criminal Justice students are in-demand in the workplace. Our graduates pursue a variety of careers in law, counseling, law enforcement, the courts system and corrections.
 
@@ -20,7 +19,7 @@ Potential career paths include:
 - **Local/State Law Enforcement**: Police Officer, State Trooper, Detective, Sheriff, Crime Analyst, Intelligence Analyst, Department of Public Safety Telecommunicator
 - **Federal Law Enforcement**: ATF (Alcohol, Tobacco and Firearms) Agent, Drug Enforcement Agency Agent, Federal Bureau of Investigation Agent, Secret Service Agent, Central Intelligence Agency Agent or Analyst, Department of Homeland Security Agent, US Postal Inspector, US Marshalls Service Agent, TSA (Transportation Security Administrator or Officer), United States Park Ranger, Crime Analyst, Intelligence Analyst
 - **Private Security**: Security Officer, Retail Loss Prevention Specialist, Private Investigator, Private Intelligence Analyst
-- **Corrections**: Adult/Juvenile Parole Officer, Correctional Officer, Case worker, Mental health counselor, - Youth Counselor
+- **Corrections**: Adult/Juvenile Parole Officer, Correctional Officer, Case worker, Mental health counselor, Youth Counselor
 - **Human Services**: Mental Health Technician, Child and Family Social Worker, Youth Advocate, Crisis Counselor, Victims Advocate, Therapist
 - **Legal/Courts**: Prosecutor, Defense Attorney, Paralegal, Legal Assistant, Court Clerk, Adult Probation Officer, Juvenile Court Probation Officer, Court Administration
 - **Research**: Researcher, Analyst, Policy Development
