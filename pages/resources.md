@@ -12,7 +12,7 @@ keywords: 'advising center, writing center, criminal justice resources, tu libra
 # custom variables
 sidebar: false
 ---
-Considering earning your criminal justice degree at Temple University but aren’t sure where to get started? You’ve come to the right place! Below you’ll find all the info you need on [advising](#advising-center), [mentoring](#criminal-justice-mentoring-center), [writing help](#writing-center), the [library system](#tu-library), [peer teaching](#opportunities-for-research-and-peer-teaching) and [disability services](#disability-services-and-resources).
+Considering earning your criminal justice degree at Temple University, but aren’t sure where to get started? You’ve come to the right place! Below you’ll find all the info you need on [advising](#advising-center), [mentoring](#criminal-justice-mentoring-center), [writing help](#writing-center), the [library system](#tu-library), [peer teaching](#opportunities-for-research-and-peer-teaching) and [disability services](#disability-services-and-resources).
 
 ## Criminal Justice Advising Center
 The mission of the Criminal Justice Advising office is to assist students with planning and implementing rosters, provide students with career information and to help students navigate through the college years. Our office posts information about scholarships, jobs, internships and social organizations that will maximize the students’ college experience.
