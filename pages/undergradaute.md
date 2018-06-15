@@ -49,4 +49,4 @@ When you are ready to apply, submit your application online at [admissions.templ
 
 ## Internships
 As a Criminal Justice major you can choose from numerous internship opportunities. We have an extensive list of sites from which to choose or you can suggest a site of special interest to you. Most sites are accepted if they give you the opportunity to come in contact with a criminal justice institution or other organizations that work in the broader field of criminal justice-related policy and practice.  You will do a certain number of hours of work per week at your site. It is an intensive experience of hands on education.
-- View the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Undergraduate%20Internships.pdf) to learn more about requirements, courses, placement and contacts.
+- View the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Undergraduate%20Internships_0.pdf) to learn more about requirements, courses, placement and contacts.
