@@ -26,7 +26,7 @@ Faculty research has focused on efforts to analyze key developments and contribu
 - [Intersection of Public Health, Crime and Justice](https://develop.cla.temple.edu/criminal-justice/research/intersection-of-public-health-crime-and-justice)
 
 - [Geography of Crime and Justice](https://develop.cla.temple.edu/criminal-justice/research/geography-of-crime-and-justice)
-Faculty has published extensively in the area of the geography of crime and justice and has developed methodological techniques that have become widely used in the field. Faculty have examinedthe intersection of the location of crimes and the location of criminals, taking into account aspects of the immediate geographic area such as the street segment or block, as well as the physical and social aspects of theneighborhood.
+Faculty has published extensively in the area of the geography of crime and justice and has developed methodological techniques that have become widely used in the field. Faculty have examined the intersection of the location of crimes and the location of criminals, taking into account aspects of the immediate geographic area such as the street segment or block, as well as the physical and social aspects of the neighborhood.
 
 - [Policing, Security and Crime Prevention](https://develop.cla.temple.edu/criminal-justice/research/policing-security-and-crime-prevention) 
 The department has had particular strengths in research dealing with local policing, police organization, evidence-based policing and aspects of police-community relations.
