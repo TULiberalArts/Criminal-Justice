@@ -16,7 +16,7 @@ graduate_faculty: false
 graduate_faculty_content: components/graduate_faculty.html
 # {% include {{ page.graduate_faculty_content }} %}
 ---
-Temple University’s graduate programs in Criminal Justice are designed to train students to apply scientific principles to the study of crime and justice. A criminal justice [master’s degree](#learn-in-a-dynamic-environment) will enhance career marketability in criminal justice research and policy. Our [doctoral program](#learn-in-a-dynamic-environment) is known nationally for research that helps policy makers and practitioners solve real-world problems.  Learn more about your [funding](#funding) today to see how an advanced criminal justice degree from Temple University can fit into your life.
+Temple University’s graduate programs in Criminal Justice are designed to train students to apply scientific principles to the study of crime and justice. Our [doctoral program](#learn-in-a-dynamic-environment) is known nationally for research that helps policy makers and practitioners solve real-world problems. A criminal justice [master’s degree](#learn-in-a-dynamic-environment) will enhance career marketability in criminal justice research and policy. Learn more about your [funding](#funding) today to see how an advanced criminal justice degree from Temple University can fit into your life.
 
 ## Learn in a Dynamic Environment
 ![2015 Grad Students]({{site.baseurl}}/media/resized CJ Grad Students.jpg){:.img-right}
