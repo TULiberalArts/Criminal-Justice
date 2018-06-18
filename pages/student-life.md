@@ -16,7 +16,7 @@ As a criminal justice degree student, you’ll learn the skills and knowledge ne
 
 ## The Inside-Out Prison-Exchange Program
 ![Inside Out]({{site.baseurl}}/media/resized inside-out-exchange-program.png){:.img-right}
-The Inside-Out course is a special group independent study in which a small group of “outside” students has class with a group of “inside” students in the Philadelphia Prison System and Graterford Prison. The program is an opportunity for everyone involved to explore issues of crime and justice behind the walls,in the hopes of deepening and transforming the dialogue about these issues. Information on the Inside-Our Program can be found on the [Inside-Out](http://www.insideoutcenter.org/) website. The program’s e-mail address is [inout@temple.edu](mailto:inout@temple.edu).
+In Inside-Out (CJ 2701), “outside” Temple students travel weekly to a nearby state or local prison where they take a class taught by a Temple CJ faculty member along with a group of “inside” students. The program is an opportunity for everyone involved to explore issues of crime and justice behind the walls, in the hope of deepening and transforming the dialogue about these issues. Information on the Inside-Our Program can be found on the [Inside-Out](http://www.insideoutcenter.org/) website. The program’s e-mail address is [inout@temple.edu](mailto:inout@temple.edu).
 
 ## ProRanger Philadelphia
 ![Pro Ranger]({{site.baseurl}}/media/resized SLETP-Summer-2013-101.jpg){:.img-right}
