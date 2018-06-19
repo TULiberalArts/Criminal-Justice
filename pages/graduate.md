@@ -12,7 +12,7 @@ keywords: 'masters, phd, admissions, careers, research, financing opportunities,
 # custom variables
 sidebar: true
 sidebar_content: sidebars/graduate.html
-graduate_faculty: false    
+graduate_faculty: true    
 graduate_faculty_content: components/graduate_faculty.html
 # {% include {{ page.graduate_faculty_content }} %}
 ---
