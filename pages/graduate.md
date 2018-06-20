@@ -14,6 +14,7 @@ sidebar: true
 sidebar_content: sidebars/graduate.html
 graduate_faculty: true    
 graduate_faculty_content: components/graduate_faculty.html
+# {% include {{ page.graduate_faculty_content }} %}
 ---
 Temple University’s graduate programs in Criminal Justice are designed to train students to apply scientific principles to the study of crime and justice. Our [doctoral program](#learn-in-a-dynamic-environment) is known nationally for research that helps policy makers and practitioners solve real-world problems. A criminal justice [master’s degree](#learn-in-a-dynamic-environment) will enhance career marketability in criminal justice research and policy. Learn more about your [funding](#funding) today to see how an advanced criminal justice degree from Temple University can fit into your life.
 
@@ -42,8 +43,6 @@ The Department of Criminal Justice ranks among the highest in the University in 
 Financial support is available to many Ph.D. students through a variety of University and Department teaching and research assistantships, fellowships, and awards, with the possibility of full-time employment during semester breaks and summer months. Assistantships and fellowships carry a stipend plus tuition waiver. Funding opportunities for students in the MA program students are limited.  Occasionally, there are funded research opportunities for which MA students are eligible.
 
 The PhD is a full-time endeavor. It is our standard practice to limit admissions to the PhD program to the number of full-time students to whom we can commit funding support for a period of at least four years. Beyond the guaranteed period of support, we are extremely proud of our track record and ability to fund doctoral students who are making timely progress toward the completion of their degrees.
-
-{% include {{ page.graduate_faculty_content }} %}
 
 ## Graduate Student Association
  	 
