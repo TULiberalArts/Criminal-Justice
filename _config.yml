@@ -5,7 +5,8 @@ title: Criminal Justice
 baseurl: /criminal-justice
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-
+# url spits sitemap
+url: https://www.cla.temple.edu/criminal-justice
 
 # Program Information
 # Short tagline for tweets (<100 characters)
