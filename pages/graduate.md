@@ -24,7 +24,7 @@ Our graduate programs are led by a diverse, multidisciplinary, and active facult
 
 - Learn More About the [MA in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/)<br>
 - Learn More About the [PhD in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-phd/)<br>
-- Learn more about the [Accelerated Masters Degree 4+1 BA/MA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice#criminaljustice+1acceleratedbamaprogram)
+- Learn more About the [Accelerated Masters Degree 4+1 BA/MA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice#criminaljustice+1acceleratedbamaprogram)
 
 ## Admissions Process
 Please visit the [Criminal Justice Graduate Admssions page](https://liberalarts.temple.edu/admissions/graduate/criminal-justice) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
@@ -32,7 +32,7 @@ Please visit the [Criminal Justice Graduate Admssions page](https://liberalarts.
 ## Careers
 We are extremely proud of the placement record of our PhD graduates. Most go on to tenure-track academic positions, while others pursue research careers in federal, state, and local agencies or in the private sector. The secret to our success is a model of close faculty-student mentoring and professional development that begins on the first day of the program. The vast majority of our graduate students conduct grant-funded research with faculty that engages directly with community-based organizations and criminal justice agencies, working on problems such as gun violence and substance abuse.
 
-![Police Recruit Graduation]({{site.baseurl}}/media/resized police-recruit-graduation.jpg){:.img-right}
+![Police Recruit Graduation]({{site.baseurl}}/media/police-recruit-graduation.jpg){:.img-center}
 Our PhD graduates have gone on to tenure-track assistant professorships at institutions such as the University of Cincinnati, Rutgers University, Sam Houston State University, Drexel University, LaSalle University, Vancouver Island University, Towson University, and the University of Louisville; some have begun their academic careers with postdoctoral research positions at institutions like George Mason University. In addition to those embarking on academic careers, a number of our PhD graduates have secured research and policy-making positions at such varied institutions and agencies as the National Institute of Justice, Vera Institute of Justice, Research Triangle Institute, Justice Research and Statistics Association, the Police Foundation, the Center for Drug and Alcohol Studies at the University of Delaware, First Judicial District of Pennsylvania Courts, and Philadelphia Adult Probation and Parole.
 
 A number of our Masters students are already employed in the criminal justice field. Our MA graduates include a detective in the Philadelphia Police Department and the warden of a local jail. Post-graduation, our students have secured positions in local, state, and federal law enforcement and criminal justice agencies such as the New Jersey Juvenile Justice Commission and the Bureau of Alcohol, Tobacco, Firearms and Explosives, while others have gone on to pursue further graduate study, here at Temple and elsewhere.
