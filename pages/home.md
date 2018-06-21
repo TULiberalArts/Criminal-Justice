@@ -34,7 +34,7 @@ ___
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Undergraduate: A Practice-Focused Intellectual Experience"
-    content="Engage in a multi-disciplinary approach to the study of crime, offenders, and victims, as well as <br/>the agencies, goals, laws, policies, and processes of the criminal justice system"
+    content="Engage in a multi-disciplinary approach to the study of crime, offenders, and victims, as well as the agencies, goals, laws, policies, and processes of the criminal justice system"
     image=""
     button-link="undergraduate"
     button-text="Learn More" %}
