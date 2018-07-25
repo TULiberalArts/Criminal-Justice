@@ -13,7 +13,7 @@ keywords: 'masters, phd, admissions, careers, research, financing opportunities,
 sidebar: true
 sidebar_content: sidebars/graduate.html
 graduate_faculty: true    
-graduate_faculty_content: components/graduate_faculty.html
+graduate_faculty_content: profiles/graduate_faculty.html
 graduate_students: true
 graduate_students_content: profiles/graduate_students_2.html
 ---
@@ -62,6 +62,7 @@ The Criminal Justice Graduate Student Association (CJGSA) is an active group tha
 
 ___
 
-# {% include {{ page.graduate_faculty_content }} %}
+{% include {{ page.graduate_faculty_content }} %}
+{% include {{ page.graduate_students_content }} %}
 
 ___
