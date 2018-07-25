@@ -50,9 +50,9 @@ ___
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
         title="Get Involved with an Internship"
-        content="NEED DESCRIPTION"
+        content="Internships give you the opportunity to come in contact with criminal justice organizations that work in the broader field of criminal justice-related policy and practice."
         image=""
-        button-link="/criminal-justice/student-life/#internships"
+        button-link="/criminal-justice/undergraduate/#internships"
         button-text="Learn More" %}
       </div>
 </div>
