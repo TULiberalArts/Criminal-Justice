@@ -14,7 +14,8 @@ sidebar: true
 sidebar_content: sidebars/graduate.html
 graduate_faculty: true    
 graduate_faculty_content: components/graduate_faculty.html
-# {% include {{ page.graduate_faculty_content }} %}
+graduate_students: true
+graduate_students_content: profiles/graduate_students_2.html
 ---
 Temple University’s graduate programs in Criminal Justice are designed to train students to apply scientific principles to the study of crime and justice. Our [doctoral program](#learn-in-a-dynamic-environment) is known nationally for research that helps policy makers and practitioners solve real-world problems. A criminal justice [master’s degree](#learn-in-a-dynamic-environment) will enhance career marketability in criminal justice research and policy. Learn more about your [funding](#funding) today to see how an advanced criminal justice degree from Temple University can fit into your life.
 
@@ -58,3 +59,9 @@ The Criminal Justice Graduate Student Association (CJGSA) is an active group tha
 - [Graduate Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate Policies](http://www.temple.edu/grad/policies/index.htm)
+
+___
+
+# {% include {{ page.graduate_faculty_content }} %}
+
+___
