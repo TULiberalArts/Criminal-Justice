@@ -44,11 +44,11 @@ ___
 
 ### Center for Security and Crime Science 
 ![CSCS]({{site.baseurl}}/media/resized CSCS.png){:.img-right}
-The [Center for Security and Crime Science](https://develop.cla.temple.edu/center-for-security-and-crime-science/index.html) (housed in the Department of Criminal Justice at Temple University) is the first center in the United States devoted to Crime Science. In the 21st Century, thinking about crime has expanded in scope to move beyond domestic concerns and security has become more broadly construed as dealing with issues of public safety and social harm. Crime is now the business of private as well as public agencies, formal as well as informal entities, all seeking to address multiple levels of security concerns.
+The [Center for Security and Crime Science](http://www.cla.temple.edu/center-for-security-and-crime-science/) (housed in the Department of Criminal Justice at Temple University) is the first center in the United States devoted to Crime Science. In the 21st Century, thinking about crime has expanded in scope to move beyond domestic concerns and security has become more broadly construed as dealing with issues of public safety and social harm. Crime is now the business of private as well as public agencies, formal as well as informal entities, all seeking to address multiple levels of security concerns.
 
 The following list contains the centers' full projects, research and results:
-- [The Philadelphia Predictive Policing Experiment]((https://develop.cla.temple.edu/center-for-security-and-crime-science/projects#the-philadelphia-predictive-policing-experiment)
-- [The Philadelphia Policing Tactics Experiment](https://develop.cla.temple.edu/center-for-security-and-crime-science/projects#the-philadelphia-policing-tactics-experiment)
-- [The Philadelphia Foot Patrol Experiment](https://develop.cla.temple.edu/center-for-security-and-crime-science/projects#the-philadelphia-foot-patrol-experiment)
-- [The Crime Reduction Impact of CCTV in Philadelphia](https://develop.cla.temple.edu/center-for-security-and-crime-science/projects#the-crime-reduction-impact-of-cctv-in-philadelphia)
-- [PROVE: Predictive Policing Software](https://develop.cla.temple.edu/center-for-security-and-crime-science/projects#prove-predictive-policing-software)
+- [The Philadelphia Predictive Policing Experiment](http://www.cla.temple.edu/center-for-security-and-crime-science/projects#the-philadelphia-predictive-policing-experiment)
+- [The Philadelphia Policing Tactics Experiment](http://www.cla.temple.edu/center-for-security-and-crime-science/projects#the-philadelphia-policing-tactics-experiment)
+- [The Philadelphia Foot Patrol Experiment](http://www.cla.temple.edu/center-for-security-and-crime-science/projects#the-philadelphia-foot-patrol-experiment)
+- [The Crime Reduction Impact of CCTV in Philadelphia](http://www.cla.temple.edu/center-for-security-and-crime-science/projects#the-crime-reduction-impact-of-cctv-in-philadelphia)
+- [PROVE: Predictive Policing Software](http://www.cla.temple.edu/center-for-security-and-crime-science/projects#prove-predictive-policing-software)
