@@ -31,6 +31,7 @@ Faculty has published extensively in the area of the geography of crime and just
 
 - [Policing, Security and Crime Prevention](https://develop.cla.temple.edu/criminal-justice/research/policing-security-and-crime-prevention) 
 The department has had particular strengths in research dealing with local policing, police organization, evidence-based policing and aspects of police-community relations.
+
 - [Youth Crime, Delinquency Prevention and Juvenile Justice](https://develop.cla.temple.edu/criminal-justice/research/youth-crime-delinquency-prevention-and-juvenile-justice)
 The faculty has expertise in a variety of theoretical and policy-relevant aspects of youth crime, delinquency prevention and juvenile justice.
 
