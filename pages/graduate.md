@@ -28,7 +28,7 @@ Our graduate programs are led by a diverse, multidisciplinary, and active facult
 - Learn more About the [Accelerated Masters Degree 4+1 BA/MA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice#criminaljustice+1acceleratedbamaprogram)
 
 ## Admissions Process
-Please visit the [Criminal Justice Graduate Admssions page](https://liberalarts.temple.edu/admissions/graduate/criminal-justice) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Criminal Justice Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Careers
 We are extremely proud of the placement record of our PhD graduates. Most go on to tenure-track academic positions, while others pursue research careers in federal, state, and local agencies or in the private sector. The secret to our success is a model of close faculty-student mentoring and professional development that begins on the first day of the program. The vast majority of our graduate students conduct grant-funded research with faculty that engages directly with community-based organizations and criminal justice agencies, working on problems such as gun violence and substance abuse.
