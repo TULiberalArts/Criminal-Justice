@@ -10,6 +10,7 @@ description: >
 keywords: 'major, minor, academic offerings, criminal justice students'
 # custom variables
 sidebar: false
+promotion-table: true
 feature: true
 feature-title: >-
   Committed to Deepening Our Understanding of Crime, Governance and Social Justice
