@@ -15,11 +15,11 @@ sidebar: false
 As a criminal justice degree student, you’ll learn the skills and knowledge needed to administer justice and affect change in the system—but you have to leave the classroom to make either happen. Temple University criminal justice students have access to exciting  [study abroad](#study-abroad-program) opportunities and [other programs](#proranger-philadelphia) that get them out into the world and exposed to real-world aspects of the criminal justice system. And students who need help financing their education can apply to a number of [scholarship and financial aid awards](#awards-and-scholarships).
 
 ## The Inside-Out Prison-Exchange Program
-![Inside Out]({{site.baseurl}}/media/resized inside-out-exchange-program.png){:.img-right}
+![Inside Out]({{site.baseurl}}/media/resized inside-out-exchange-program.png){:.responsive-img .img-right}
 In Inside-Out (CJ 2701), “outside” Temple students travel weekly to a nearby state or local prison where they take a class taught by a Temple CJ faculty member along with a group of “inside” students. The program is an opportunity for everyone involved to explore issues of crime and justice behind the walls, in the hope of deepening and transforming the dialogue about these issues. Information on the Inside-Our Program can be found on the [Inside-Out](http://www.insideoutcenter.org/) website. The program’s e-mail address is [inout@temple.edu](mailto:inout@temple.edu).
 
 ## ProRanger Philadelphia
-![Pro Ranger]({{site.baseurl}}/media/resized SLETP-Summer-2013-101.jpg){:.img-right}
+![Pro Ranger]({{site.baseurl}}/media/resized SLETP-Summer-2013-101.jpg){:.responsive-img .img-right}
 “ProRanger Philadelphia” is an academic and technical skills training and paid internship program that is cooperatively administered by the National Park Service and Temple University. The program was established to recruit, train and employ law enforcement park rangers for the National Park Service. Upon graduation from Temple University and successfully completing the ProRanger program, participants are placed in a permanent career tenure law enforcement park ranger position with the  National Park Service. For more information on the program, requirements and application details visit the [ProRanger Philadelphia Page](http://www.temple.edu/provost/university-college/proranger/).
 - [Proranger Philadelphia Blog](http://prorangerphila.blogspot.com/) for the Proranger Philadelphia Blog
 
