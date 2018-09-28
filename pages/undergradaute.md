@@ -10,8 +10,7 @@ description: >-
   investigation, law prosecution, or criminal justice reform. Study Criminal Justice at the College of Liberal Arts at Temple University.
 keywords: 'ba in criminal justice, undergraduate students, minor, accelerated degree, honors program'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html    
+sidebar: sidebars/undergraduate.html    
 ---
 A criminal justice degree can help you make a difference in the world. Whether you want to investigate crimes, prosecute the law or fight for criminal justice reform, a Temple University education will give you the knowledge you need to forge your path. At the College of Liberal Arts, criminal justice experts teach students in our [minor](#minor-in-criminal-justice), [major](#bachelor-of-arts-in-criminal-justice), [honors](#criminal-justice-honors-program) and [4+1 programs](#criminal-justice-4-1-ba-ma) how to navigate the world of criminal justice.
 

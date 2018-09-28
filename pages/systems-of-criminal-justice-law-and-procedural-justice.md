@@ -8,7 +8,6 @@ title: Systems of Criminal Justice, Law and Procedural Justice
 description: >-
 keywords: 'criminal justice research, research projects'
 # custom variables
-sidebar: false
 ---
 ## Systems of Criminal Justice, Law, and Procedural Justice
 

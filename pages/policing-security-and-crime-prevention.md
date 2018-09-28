@@ -8,7 +8,6 @@ title: Policing, Security and Crime Prevention
 description: >-
 keywords: 'criminal justice research, research projects, center for security and crime science'
 # custom variables
-sidebar: false
 ---
 ## Policing, Security and Crime Prevention
 

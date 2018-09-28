@@ -10,7 +10,6 @@ description: >-
   disability services, and virtual student foreign service at Temple University’s College of Liberal Arts.
 keywords: 'advising center, writing center, criminal justice resources, tu library, research and peer teaching, virtual student foreign service'
 # custom variables
-sidebar: false
 ---
 Considering earning your criminal justice degree at Temple University, but aren’t sure where to get started? You’ve come to the right place! Below you’ll find all the info you need on [advising](#advising-center), [mentoring](#criminal-justice-mentoring-center), [writing help](#writing-center), the [library system](#tu-library), [peer teaching](#opportunities-for-research-and-peer-teaching) and [disability services](#disability-services-and-resources).
 

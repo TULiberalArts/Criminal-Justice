@@ -8,7 +8,6 @@ title: Intersection of Public Health, Crime and Justice
 description: >-
 keywords: 'criminal justice research, research projects'
 # custom variables
-sidebar: false
 ---
 ## Intersection of Public Health, Crime and Justice
 

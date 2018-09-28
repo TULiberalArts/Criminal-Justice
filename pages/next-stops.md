@@ -10,7 +10,6 @@ description: >-
   Explore potential career paths from Law Enforcement to Human Services. Visit us, know your tranfer options, and apply!
 keywords: 'careers, networking, visit, apply, transfer'
 # custom variables
-sidebar: false
 ---
 ![Shauni graduates police academy]({{site.baseurl}}/media/resized Shauni.jpg){:.responsive-img .img-right}
 Criminal Justice students are in-demand in the workplace. Our graduates pursue a variety of careers in law, counseling, law enforcement, the courts system and corrections.

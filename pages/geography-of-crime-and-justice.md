@@ -8,7 +8,6 @@ title: Geography of Crime and Justice
 description: >-
 keywords: 'criminal justice research, research projects'
 # custom variables
-sidebar: false
 ---
 ## Geography of Crime and Justice
 

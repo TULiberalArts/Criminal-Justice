@@ -8,7 +8,6 @@ title: Rehabilitation and Behavior
 description: >-
 keywords: 'criminal justice research, research projects'
 # custom variables
-sidebar: false
 ---
 ## Rehabilitation and Behavior Change
 Rehabilitation and behavior change focuses on research involving high-risk offenders and criminal behaviors that include criminal and violent offending, recidivism, delinquency, substance use, and HIV risk behaviors.

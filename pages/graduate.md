@@ -10,12 +10,9 @@ description: >-
   research, careers, financing opportunities, and graduate faculty at College of Liberal Arts.
 keywords: 'masters, phd, admissions, careers, research, financing opportunities, graduate faculty'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/graduate.html
-graduate_faculty: true    
-graduate_faculty_content: profiles/graduate_faculty.html
-graduate_students: true
-graduate_students_content: profiles/graduate_students_2.html
+sidebar: sidebars/graduate.html  
+graduate_faculty: profiles/graduate_faculty.html
+graduate_students: profiles/graduate_students_2.html
 ---
 Temple University’s graduate programs in Criminal Justice are designed to train students to apply scientific principles to the study of crime and justice. Our [doctoral program](#learn-in-a-dynamic-environment) is known nationally for research that helps policy makers and practitioners solve real-world problems. A criminal justice [master’s degree](#learn-in-a-dynamic-environment) will enhance career marketability in criminal justice research and policy. Learn more about your [funding](#funding) today to see how an advanced criminal justice degree from Temple University can fit into your life.
 

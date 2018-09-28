@@ -8,7 +8,6 @@ title: Youth Crime, Delinquency Prevention and Juvenile Justice
 description: >-
 keywords: 'criminal justice research, research projects, center for security and crime science'
 # custom variables
-sidebar: false
 ---
 ## Youth Crime, Delinquency Prevention and Juvenile Justice
 

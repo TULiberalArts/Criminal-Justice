@@ -8,7 +8,6 @@ title: Criminal Behavior and Community Crime Rates
 description: >-
 keywords: 'criminal justice research, research projects'
 # custom variables
-sidebar: false
 ---
 ## Criminal Behavior and Community Crime Rates
 
