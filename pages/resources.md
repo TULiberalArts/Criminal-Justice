@@ -33,7 +33,7 @@ Friday: 11am - 1pm<br>
 | 12pm- 1pm | Lauren  | Haley W  | Katorah  | Nicole  | Haley B  |
 | 1pm- 2pm | Trinh  | Dee  | Eva  | Ronnie  | 
 
-_If these times are not compatible with your class schedule, please contact [alyssa.mendlein@temple.edu](mailto:alyssa.mendlein@temple.edu to request a ‘by appointment’ mentoring session._
+_If these times are not compatible with your class schedule, please contact [alyssa.mendlein@temple.edu](mailto:alyssa.mendlein@temple.edu) to request a ‘by appointment’ mentoring session._
 
 ## Writing Center
 The Academic Advising Center offers various forms of individual and group support for improving your writing. Please visit the [Writing Center](http://www.temple.edu/writingctr/) for more information.
