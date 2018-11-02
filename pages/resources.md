@@ -33,7 +33,7 @@ Friday: 11am - 1pm<br>
 |---|---|---|---|---|---|
 | 11 am- 12pm | Mollie | Sam | Chelsey | Alyssa | Jesse |
 | 12pm- 1pm | Lauren | Haley W | Katorah  | Nicole | Haley B |
-| 1pm- 2pm | Trinh | Dee | Eva | Ronnie | 
+| 1pm- 2pm | Trinh | Dee | Eva | Ronnie | <br>
 
 
 ## Writing Center
