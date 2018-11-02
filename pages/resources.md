@@ -27,11 +27,12 @@ Undergraduate students should be aware that assistance is available for all CJ c
 Monday-Thursday: 11am - 2pm<br>
 Friday: 11am - 1pm<br>
 
-| Time  | Mon.  | Tues  | Wed.  | Thurs.  | Fri.  |
+| Time | Mon. | Tues | Wed. | Thurs. | Fri. |
 |---|---|---|---|---|---|
-| 11 am- 12pm | Mollie | Sam | Chelsey  | Alyssa  | Jesse  |
-| 12pm- 1pm | Lauren  | Haley W  | Katorah  | Nicole  | Haley B  |
-| 1pm- 2pm | Trinh  | Dee  | Eva  | Ronnie  | 
+| 11 am- 12pm | Mollie | Sam | Chelsey | Alyssa | Jesse |
+| 12pm- 1pm | Lauren | Haley W | Katorah  | Nicole | Haley B |
+| 1pm- 2pm | Trinh | Dee | Eva | Ronnie | 
+
 
 _If these times are not compatible with your class schedule, please contact [alyssa.mendlein@temple.edu](mailto:alyssa.mendlein@temple.edu) to request a ‘by appointment’ mentoring session._
 
