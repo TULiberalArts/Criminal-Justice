@@ -19,8 +19,9 @@ The mission of the Criminal Justice Advising office is to assist students with p
 If you have any questions about advising please contact our academic advisor [Corissa Reilly](mailto:corissa.reilly@temple.edu).
 
 ## Criminal Justice Undergraduate Student Mentoring Center
-Undergraduate students should be aware that assistance is available for all CJ classes from the department’s volunteer graduate students. Please bring all your course materials with you (syllabus,notes, books, assignments, etc.) so that the graduate students may better assist you. The Mentoring Center is located on the 5th floor of Gladfelter Hall, room 544. You can view the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Mentoring%20Center.pdf) to see the specifics of how we can assist you! _If these times are not compatible with your class schedule, please contact [alyssa.mendlein@temple.edu](mailto:alyssa.mendlein@temple.edu) to request a ‘by appointment’ mentoring session._
+Undergraduate students should be aware that assistance is available for all CJ classes from the department’s volunteer graduate students. Please bring all your course materials with you (syllabus,notes, books, assignments, etc.) so that the graduate students may better assist you. The Mentoring Center is located on the 5th floor of Gladfelter Hall, room 544. You can view the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Mentoring%20Center.pdf) to see the specifics of how we can assist you! 
 
+_If these times are not compatible with your class schedule, please contact [alyssa.mendlein@temple.edu](mailto:alyssa.mendlein@temple.edu) to request a ‘by appointment’ mentoring session._
 
 **Fall 2018:**<br>
 
