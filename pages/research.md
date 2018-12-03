@@ -34,7 +34,7 @@ The department has had particular strengths in research dealing with local polic
 - [Youth Crime, Delinquency Prevention and Juvenile Justice](https://www.cla.temple.edu/criminal-justice/research/youth-crime-delinquency-prevention-and-juvenile-justice)
 The faculty has expertise in a variety of theoretical and policy-relevant aspects of youth crime, delinquency prevention and juvenile justice.
 
-- [Criminal Behavior and Community Crime Rates](https://www.cla.temple.edu/criminal-justice/research/criminal-behavior-and-community-crime-rates)(traditional criminology/nature of crime, types of crime, cybercrime, terrorism)
+- [Criminal Behavior and Community Crime Rates](https://www.cla.temple.edu/criminal-justice/research/criminal-behavior-and-community-crime-rates) (traditional criminology/nature of crime, types of crime, cybercrime, terrorism)
 A range of faculty has published theoretically driven works in the area of traditional criminology, and more recently in the area of cybercrime and terrorism. This is an area of critical need currently.
 
 - [Policy Analysis and Program Evaluation](https://www.cla.temple.edu/criminal-justice/research/policy-analysis-and-program-evaluation)
