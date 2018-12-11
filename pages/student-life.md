@@ -19,7 +19,7 @@ In Inside-Out (CJ 2701), “outside” Temple students travel weekly to a nearby
 
 ## ProRanger Philadelphia
 ![Pro Ranger]({{site.baseurl}}/media/resized SLETP-Summer-2013-101.jpg){:.responsive-img .img-right}
-“ProRanger Philadelphia” is an academic and technical skills training and paid internship program that is cooperatively administered by the National Park Service and Temple University. The program was established to recruit, train and employ law enforcement park rangers for the National Park Service. Upon graduation from Temple University and successfully completing the ProRanger program, participants are placed in a permanent career tenure law enforcement park ranger position with the  National Park Service. For more information on the program, requirements and application details visit the [ProRanger Philadelphia Page](http://www.temple.edu/provost/university-college/proranger/).
+“ProRanger Philadelphia” is an academic and technical skills training and paid internship program that is cooperatively administered by the National Park Service and Temple University. The program was established to recruit, train and employ law enforcement park rangers for the National Park Service. Upon graduation from Temple University and successfully completing the ProRanger program, participants are placed in a permanent career tenure law enforcement park ranger position with the  National Park Service. For more information on the program, requirements and application details visit the [ProRanger Philadelphia Page](https://www.temple.edu/provost/university-college/proranger/).
 - [Proranger Philadelphia Blog](http://prorangerphila.blogspot.com/) for the Proranger Philadelphia Blog
 
 ## Study Abroad Program
