@@ -23,7 +23,7 @@ Undergraduate students should be aware that assistance is available for all CJ c
 
 _If these times are not compatible with your class schedule, please contact [alyssa.mendlein@temple.edu](mailto:alyssa.mendlein@temple.edu) to request a ‘by appointment’ mentoring session._
 
-**Fall 2018:**<br>
+**Spring 2019:**<br>
 
 560 Gladfelter Hall<br> 
 Monday-Thursday: 11am - 2pm<br>
@@ -31,9 +31,9 @@ Friday: 11am - 1pm<br>
 
 | Time | Mon. | Tues | Wed. | Thurs. | Fri. |
 |---|---|---|---|---|---|
-| 11 am- 12pm | Mollie | Sam | Chelsey | Alyssa | Jesse |
-| 12pm- 1pm | Lauren | Haley W | Katorah  | Nicole | Haley B |
-| 1pm- 2pm | Trinh | Dee | Eva | Ronnie | <br>
+| 11 am- 12pm | Ronni | Haley B | Trinh | Nicole | Jesse |
+| 12pm- 1pm | Sam | Haley W | Alyssa  | Chelsey | Mollie |
+| 1pm- 2pm | Lauren | Katorah | Eva | Dee | <br>
 
 
 ## Writing Center
