@@ -21,7 +21,7 @@ Description: The use of BWCs has grown rapidly across the world. Although BWC ev
 
 ___
 
-_Project Title_: **Power, Knowledge and Evidence:  The Social Structure of the Production of Knowledge** <br>
+_Project Title_: **Power, Knowledge and Evidence: The Social Structure of the Production of Knowledge** <br>
 _Affiliated Faculty_: [Kate Auerhahn](https://liberalarts.temple.edu/academics/faculty/auerhahn-kate) <br>
 
 Description: Foucault’s genealogical method is combined with Donald Black’s framework of “pure sociology” to elucidate the relationship between social-structural inequality and the discursive environment of the courtroom. Rules governing the admissibility of evidence on grounds of relevance structure and limit the forms in which “truth” is constructed in court proceedings.    The analysis demonstrates that the formalized discourse of the courts – with specific focus on the rules of evidence – constitutes and reproduces dynamics of structural inequality.  Practices examined include the discourses surrounding admissibility and relevance, privilege exclusions, and the structure of ritualized courtroom operations and procedures such as arraignments, bail hearings, adjudication and sentencing.  The analysis reveals the ways in which evidentiary discourse reflects and ultimately reproduces social-structural relations of power and inequality with respect to various bases of stratification such as social integration, cultural legitimacy, and socioeconomic status.
