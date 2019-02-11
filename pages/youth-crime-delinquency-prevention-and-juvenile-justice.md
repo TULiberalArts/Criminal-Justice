@@ -13,7 +13,7 @@ keywords: 'criminal justice research, research projects, center for security and
 
 _Project Title_: **Reducing Gang Violence: A Randomized Trial of Functional Family Therapy (with the University of Maryland)** <br>
 _Funding Agency_: National Institute of Justice <br>
-_Affiliated Faculty_: [Jamie Fader](https://liberalarts.temple.edu/academics/faculty/fader-jamie) and Phil Harris (retired) <br>
+_Affiliated Faculty_: [Jamie Fader](https://liberalarts.temple.edu/academics/faculty/fader-jamie) and [Phil Harris](https://liberalarts.temple.edu/academics/faculty/harris-phil)(retired) <br>
 
 Description: The research will produce knowledge about how to prevent at-risk youth from joining gangs and reduce delinquency among active gang members. It will evaluate a modification of Functional Family Therapy (FFT), a model program from the Blueprints for Healthy Youth Development initiative. This modification, FFT-G, was developed in an earlier phase of the research. A randomized trial testing this adaptation is currently underway with funding from Smith Richardson Foundation. The long-term goal is the designation of FFT-G as a national Blueprint Model Program for a new and especially high-risk population, members of street gangs, thus providing the first known evidence-based program (EBP) for such youth. In addition to scholarly articles and presentations about the project, this research will produce a program model that is ready for broad dissemination, an existing dissemination mechanism, and a model for how public agencies can fund EBPs using existing funding streams. Given recent estimates that more than 782,000 gang members reside in the U.S., this product is expected to have a large impact on community uptake of the model.
  
