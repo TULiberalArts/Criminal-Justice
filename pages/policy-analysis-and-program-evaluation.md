@@ -54,6 +54,8 @@ Affiliated Faculty: [Caterina Roman](https://liberalarts.temple.edu/academics/fa
 
 Description: This project supports the creation and maintenance of an effective, long term, sustainable research partnership that facilitates an overall research and evaluation approach utilizing joint strategy planning and development around implementing a focused deterrence law enforcement initiative in the city of Philadelphia. Focused deterrence strategies target specific criminal behavior committed by a small number of chronic offenders (in this case gang or group-affiliated offenders) who are vulnerable to sanctions and punishment.
 
+The results of the impact evaluation can be found here in a [detailed journal article](https://www.researchgate.net/publication/325948408_Assessing_the_gang-level_and_community-level_effects_of_the_Philadelphia_Focused_Deterrence_strategy) or a practinioner-oriented [research brief](https://pdfs.semanticscholar.org/1d77/a67057d272ca0298036cb82c93f82990d867.pdf)
+
 ___
  
 _Project Title_: **Parole and Correctional Processes** <br>
@@ -66,9 +68,9 @@ ___
 _Project Title_: **Research Support and Evaluation for Philadelphia CeaseFire: Supporting and Developing a Public Health Approach to Gun Violence Reduction** <br>
 _Affiliated Faculty_: [Caterina Roman](https://liberalarts.temple.edu/academics/faculty/roman-caterina) <br>
 
-Description: Housed in Temple University’s Center for Bioethics, Urban Health, and Policy at the Temple School of Medicine, Philadelphia CeaseFire is a gun violence reduction intervention that utilizes the Cure Violence public health model of stopping the spread of disease. Philadelphia CeaseFire works by detecting and interrupting potentially violent conflicts; identifying and treating the highest risk; and, mobilizing the community to change norms. The evaluation consists of three main tasks: Creating a support system for staff in the collection of performance measures that will aid monthly and quarterly reporting; the conduct of an implementation evaluation; and the conduct of a rigorous impact evaluation.
+Description: Housed in Temple University’s Center for Bioethics, Urban Health, and Policy at the Temple School of Medicine, Philadelphia CeaseFire is a gun violence reduction intervention that utilizes the Cure Violence public health model of stopping the spread of disease. Philadelphia CeaseFire works by detecting and interrupting potentially violent conflicts; identifying and treating the highest risk; and, mobilizing the community to change norms. The evaluation consists of three main tasks: Creating a support system for staff in the collection of performance measures that will aid monthly and quarterly reporting; the conduct of an implementation evaluation; and the conduct of a rigorous impact evaluation. The research also includes an evaluation of an expansion of the model to a local high school where two outreach workers have been employed to work directly with students.
 
-The research also includes an evaluation of an expansion of the model to a local high school where two outreach workers have been employed to work directly with students.
+You can view the [results of the impact evaluation](https://drive.google.com/file/d/16zQwyTiNe_-IW32xEA9-WjCarw2dACs9/view?usp=sharing). To hear Dr. Roman discuss the research on Cure Violence and Philadelphia CeaseFire within the larger context of research on the strategy, watch a [30-minute panel discussion](https://johnjayrec.nyc/2017/10/06/cvevaluationconference/) (see Panel 3) on Cure Violence that took place at John Jay College in 2017. 
 
 ___
  
