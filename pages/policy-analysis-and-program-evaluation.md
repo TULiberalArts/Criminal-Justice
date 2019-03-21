@@ -54,7 +54,7 @@ Affiliated Faculty: [Caterina Roman](https://liberalarts.temple.edu/academics/fa
 
 Description: This project supports the creation and maintenance of an effective, long term, sustainable research partnership that facilitates an overall research and evaluation approach utilizing joint strategy planning and development around implementing a focused deterrence law enforcement initiative in the city of Philadelphia. Focused deterrence strategies target specific criminal behavior committed by a small number of chronic offenders (in this case gang or group-affiliated offenders) who are vulnerable to sanctions and punishment.
 
-The results of the impact evaluation can be found here in a [detailed journal article](https://www.researchgate.net/publication/325948408_Assessing_the_gang-level_and_community-level_effects_of_the_Philadelphia_Focused_Deterrence_strategy) or a practinioner-oriented [research brief](https://pdfs.semanticscholar.org/1d77/a67057d272ca0298036cb82c93f82990d867.pdf).
+The results of the impact evaluation can be found here in a [detailed journal article](https://www.researchgate.net/publication/325948408_Assessing_the_gang-level_and_community-level_effects_of_the_Philadelphia_Focused_Deterrence_strategy) or a practitioner-oriented [research brief](https://pdfs.semanticscholar.org/1d77/a67057d272ca0298036cb82c93f82990d867.pdf).
 
 ___
  
