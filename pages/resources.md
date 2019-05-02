@@ -35,6 +35,7 @@ Friday: 11am - 1pm<br>
 | 12pm- 1pm | Sam | Haley W | Alyssa  | Chelsey | Mollie |
 | 1pm- 2pm | Lauren | Katorah | Eva | Dee | <br>
 
+___
 
 ## Writing Center
 The Academic Advising Center offers various forms of individual and group support for improving your writing. Please visit the [Writing Center](http://www.temple.edu/writingctr/) for more information.
