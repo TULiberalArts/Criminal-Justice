@@ -46,9 +46,9 @@ The Temple University Library system offers a vast collection of print and elect
 ## Opportunities for Research and Peer Teaching
 Temple University provides programs that support students in building their research capacity. Individuals should go to the websites or contacts listed for the latest information on due dates, eligibility, and application requirements.
 
-- [Diamond Research Scholars Program](http://www.temple.edu/vpus/opportunities/researchscholars.htm)
-- [Creative Arts, Research And Scholarship (CARAS) Program](http://www.temple.edu/vpus/opportunities/CARAS.htm)
-- [Diamond Peer Teachers Program](http://www.temple.edu/vpus/opportunities/peerteacher.htm)
+- Diamond Research Scholars Program
+- Creative Arts, Research And Scholarship (CARAS) Program
+- Diamond Peer Teachers Program
 
 ## Disability Services And Resources
 Temple offers a range of comprehensive services designed to support and encourage students with medical, visual, hearing, physical, learning, and psychological disabilities. Please visit [Disability Services and Resources](http://www.temple.edu/disability/).
