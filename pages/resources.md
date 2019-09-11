@@ -31,9 +31,9 @@ Friday: 11am - 1pm<br>
 
 | Time | Mon. | Tues | Wed. | Thurs. | Fri. |
 |---|---|---|---|---|---|
-| 11 am- 12pm | Eli**; Hayley W.* | Jesse* | Ronni* | Sam* |  |
+| 11 am- 12pm | Eli** ; Hayley W.* | Jesse* | Ronni* | Sam* |  |
 | 12pm- 1pm | Megan M.** | Mea | Ciara*  | Trinh* | Marc** |
-| 1pm- 2pm | Mollie* | Sarah**; Haley S.* | Lauren*; Lizzy* | Chelsey* | <br>
+| 1pm- 2pm | Mollie* | Sarah** ; Haley S.* | Lauren* ; Lizzy* | Chelsey* | <br>
 
 - \* Indicates this graduate student is comfortable tutoring research methods
 - \** Indicates this graduate student is comfortable tutoring both research methods and statistics
