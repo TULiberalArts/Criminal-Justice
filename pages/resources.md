@@ -36,8 +36,8 @@ Friday: 11am - 1pm<br>
 | 1pm- 2pm | Mollie* | Sarah**; Haley S.* | Lauren*; Lizzy* | Chelsey* | <br>
 ___
 
-*Indicates this graduate student is comfortable tutoring research methods
-**Indicates this graduate student is comfortable tutoring both research methods and statistics
+- * Indicates this graduate student is comfortable tutoring research methods
+- ** Indicates this graduate student is comfortable tutoring both research methods and statistics
 
 If these times are not compatible with your class schedule or you want to talk with a mentor who has specific content knowledge, please contact CJGSA Vice President, Sam Phillips, at [samantha_phillips@temple.edu](mailto:samantha_phillips@temple.edu) to request a ‘by appointment’ mentoring session.
 
