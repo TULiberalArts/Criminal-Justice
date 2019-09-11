@@ -23,7 +23,7 @@ Undergraduate students should be aware that assistance is available for all CJ c
 
 _If these times are not compatible with your class schedule, please contact [alyssa.mendlein@temple.edu](mailto:alyssa.mendlein@temple.edu) to request a ‘by appointment’ mentoring session._
 
-**Spring 2019:**<br>
+**Fall 2019:**<br>
 
 560 Gladfelter Hall<br> 
 Monday-Thursday: 11am - 2pm<br>
@@ -31,9 +31,15 @@ Friday: 11am - 1pm<br>
 
 | Time | Mon. | Tues | Wed. | Thurs. | Fri. |
 |---|---|---|---|---|---|
-| 11 am- 12pm | Ronni | Haley B | Trinh | Nicole | Jesse |
-| 12pm- 1pm | Sam | Haley W | Alyssa  | Chelsey | Mollie |
-| 1pm- 2pm | Lauren | Katorah | Eva | Dee | <br>
+| 11 am- 12pm | Eli**; Hayley W.* | Jesse* | Ronni* | Sam* |  |
+| 12pm- 1pm | Megan M.** | Mea | Ciara*  | Trinh* | Marc** |
+| 1pm- 2pm | Mollie* | Sarah**; Haley S.* | Lauren*; Lizzy* | Chelsey* | <br>
+___
+
+*Indicates this graduate student is comfortable tutoring research methods
+**Indicates this graduate student is comfortable tutoring both research methods and statistics
+
+If these times are not compatible with your class schedule or you want to talk with a mentor who has specific content knowledge, please contact CJGSA Vice President, Sam Phillips, at [samantha_phillips@temple.edu](mailto:samantha_phillips@temple.edu) to request a ‘by appointment’ mentoring session.
 
 ___
 
