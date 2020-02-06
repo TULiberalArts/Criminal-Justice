@@ -55,6 +55,6 @@ Description: Much has yet to be understood about the determinants of perceived p
 ___
  
 _Project Title_: **The motivations for police proactivity at the street level: A systematic review and meta-synthesis** <br>
-_Affiliated Faculty_: Ajima Olaghere <br>
+_Affiliated Faculty_: [Ajima Olaghere](https://liberalarts.temple.edu/academics/faculty/olaghere-ajima) <br>
 
 Description: The purpose of this review is to develop a better understanding of factors that influence police proactivity at the street-level. We do not know the reasons why officers make decisions nor do we have insight into their decision-making process. This review is an attempt to glean an understanding of the motivations of police officers based on the available literature to date. The one major objective for this review is to develop a mid-range theory about police officer decision-making. Additionally, we are also interested in systematically synthesizing qualitative research on this topic to complement findings from the National Academy of Science’s (NAS) Committee on Proactive Policing (see National Academies of Sciences, 2017)
