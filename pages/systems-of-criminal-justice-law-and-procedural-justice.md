@@ -88,7 +88,7 @@ Description: Over the last three decades, the US prison population grew dramatic
 ___
 
 _Project Title:_ **Legitimacy in corrections at a time of crisis: Perspectives of incarcerated individuals**<br>
-_Affiliated Faculty:_ : Ajima Olaghere, Rely Vilcica, and Jeffrey Ward
+_Affiliated Faculty:_ : [Ajima Olaghere](https://liberalarts.temple.edu/academics/faculty/olaghere-ajima),[Rely Vîlcică](https://liberalarts.temple.edu/academics/faculty/v-lcic-e-rely) and [Jeff Ward](https://liberalarts.temple.edu/academics/faculty/ward-jeffrey-t)<br>
 
 Description: To date, most criminological scholarship focuses on the legal decision-making and discretionary actions of police officers and the resulting impact on perceived legitimacy and public compliance. In an effort to help diversity scholarship, this study seeks to add to existing research in the areas of procedural justice and legitimacy in corrections. The study involves archival research and a qualitative content analysis and latent class analysis of approximately 160 unsolicited letters from incarcerated individuals in the Pennsylvania Department of Corrections. The study draws on these letters to guide our understanding and encoding of the letters about the direct impact and collateral consequences of political expediency in decision-making about parole or conditional release from prison. The findings should illuminate important theoretical and policy implications for decision-making in times of political crisis, the process of release, and the broader reentry context.
 
