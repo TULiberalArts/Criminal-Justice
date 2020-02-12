@@ -36,7 +36,23 @@ Description: The goal of the PROSPER project, a collaboration between Public Hea
 ___
  
 _Project Title_: **CRIME-PA: Crime Model Evaluation for Physical Activity** <br>
-_Funding Agency_: National Heart, Blood and Lung Institute (NIH) <br>
+_Funding Agency_: National Heart, Blood and Lung Institute (NIH)<br>
 _Affiliated Faculty_: [Caterina Roman](https://liberalarts.temple.edu/academics/faculty/roman-caterina) and [Ralph Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ralph) (subcontractors to UCSD) <br>
 
 Description: The study evaluates a trans-disciplinary conceptual model of the relation of crime and crime-related perceptions to physical activity and other cardiovascular disease-related outcomes across the life span. Research activities include development of reliable measures of crime-related constructs that will be applicable across the life span.
+
+___
+ 
+_Project Title_: **Using Implementation Interventions and Peer Recovery Support to Improve Opioid Treatment Outcomes in Community Supervision** <br>
+_Funding Agency_: National Institute on Drug Abuse (NIH) <br>
+_Affiliated Faculty_: [Steven Belenko](https://liberalarts.temple.edu/academics/faculty/belenko-steven) and [Jennifer Wood](https://liberalarts.temple.edu/academics/faculty/wood-jennifer)<br>
+
+Description: In collaboration with researchers from Brown University, the University of North Carolina, and the University of Rhode Island, this project is designed to determine whether a facilitated local change team intervention, and the use of peer recovery support specialists improves access to and adherence to medication for opioid use disorder (MOUD) for people on probation.  This type 1 hybrid implementation-effectiveness study involves 7 probation agencies in three states and includes (1) a core implementation study with staff trainings, agency needs assessments, and a facilitated local change team, and (2) a randomized experiment to compare MOUD treatment outcomes for probationers assigned a peer recovery support specialists and those without a peer. This project is part of NIDA’s Justice Community Opioid Innovation Network, initiated in 2019.
+
+___
+ 
+_Project Title_: **Enhancing Healthy Reintegration and Recovery for High-Risk Opioid Users** <br>
+_Funding Agency_: Pennsylvania Department of Health<br>
+_Affiliated Faculty_: [Steven Belenko](https://liberalarts.temple.edu/academics/faculty/belenko-steven) and [Caterina Roman](https://liberalarts.temple.edu/academics/faculty/roman-caterina)<br>
+
+Description: This project is a quasi-experimental study of the experiences, challenges, and strategies to enhance access to medication assisted treatment (MAT) among formerly incarcerated individuals with opioid use disorder (OUD) in Philadelphia. We will track outcomes for those who initiated MAT in prison or jail, and develop and implement an intervention to facilitate access to, initiation of, and adherence to MAT through the hub-and-spoke model TRUST Clinic at Temple Hospital and other community health and social services. The goals are to reduce relapse, overdose, and reincarceration, and increase engagement in treatment. Results will provide insights into the health system barriers affecting access to and long-term outcomes for MAT for previously incarcerated populations returning to Philadelphia. A minority training component will provide students from Lincoln University with opportunities to enhance their training and education in addiction, treatment, criminal justice, and public health.
