@@ -22,7 +22,6 @@ Our graduate programs are led by a diverse, multidisciplinary, and active facult
 
 - Learn More About the [MA in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/)<br>
 - Learn More About the [PhD in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-phd/)<br>
-- Learn more About the [Accelerated Masters Degree 4+1 BA/MA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice#criminaljustice+1acceleratedbamaprogram)
 
 ## Admissions Process
 Please visit the [Criminal Justice Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
