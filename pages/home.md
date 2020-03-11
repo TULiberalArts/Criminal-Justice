@@ -29,7 +29,7 @@ A Practice-Focused Intellectual Experience. Students often debate issues such as
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Undergraduate: A Practice-Focused Intellectual Experience"
     content="Engage in a multi-disciplinary approach to the study of crime, offenders, and victims, as well as the agencies, goals, laws, policies, and processes of the criminal justice system"
     image=""
@@ -37,7 +37,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Graduate: Policy-Oriented Research and Training"
       content="A dynamic environment in which faculty, with graduate students, conduct research at the local, regional, national and international levels"
       image=""
@@ -45,7 +45,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Get Involved with an Internship"
         content="Internships give you the opportunity to come in contact with criminal justice organizations that work in the broader field of criminal justice-related policy and practice."
         image=""
