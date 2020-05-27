@@ -21,7 +21,7 @@ A practice-focused, intellectual experience. Students often debate issues such a
 - [BA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/ba-criminal-justice/)
 - [Minor in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/minor-criminal-justice/)
 - [MA in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/)
-- [4+1 BA/MA Program](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/#41-ba-ma)
+- [4+1 BA/MA Program](https://liberalarts.temple.edu/ba-criminal-justice-ma-criminal-justice)
 - [Graduate Certificate in Police Leadership](http://bulletin.temple.edu/graduate/scd/cla/police-leadership-certificate/)
 - [Graduate Certification in Crime Science](http://bulletin.temple.edu/graduate/scd/cla/crime-science-certificate/)
 - [PhD in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-phd/)
