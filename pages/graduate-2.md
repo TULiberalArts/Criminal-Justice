@@ -40,7 +40,7 @@ The Department of Criminal Justice ranks among the highest in the university in 
 The PhD is a full-time endeavor. It is our standard practice to limit admissions to the PhD program to the number of full-time students to whom we can commit funding support for a period of at least four years. Beyond the guaranteed period of support, we are extremely proud of our track record and ability to fund doctoral students who are making timely progress toward the completion of their degrees.
 
 - Criminal Justice [MA Scholarships & Financial Aid](https://www.temple.edu/academics/degree-programs/criminal-justice-ma-la-cj-ma/cla-criminal-justice-ma-scholarships-financial-aid)
-- Criminal Justice [PhD Scholarships & Financial Aid](https://www.temple.edu/academics/schools-and-colleges/college-of-liberal-arts/cla-sociology-scholarships?p=1314)
+- Criminal Justice [PhD Scholarships & Financial Aid](https://www.temple.edu/academics/schools-and-colleges/college-of-liberal-arts/cla-graduate-phd-scholarships)
 
 ## Graduate Student Association
 Choosing the appropriate graduate program can be stressful and overwhelming. We’re here to provide information in the decision-making process. If you’re interested in graduate studies in the department, how to navigate administrative paperwork or where to live and what to do in Philly feel free to contact a graduate student. We’ll do whatever we can to ease your transition into graduate studies in the Department of Criminal Justice.
