@@ -26,12 +26,12 @@ Our faculty members have spent years working in criminal justice and related fie
 ## Bachelor of Arts in Criminal Justice
 As a liberal arts degree, the Bachelor of Arts in Criminal Justice trains students to think critically, to solve problems, to communicate effectively, and to conduct research designed to improve our understanding of crime and related social problems. Through the lens of criminal justice, students tackle larger issues related to effectiveness and fairness of existing policies and practices. Students learn that criminal justice is a complex system connected to other systems in society (e.g. health, education). In short, students will attain translatable skills that are relevant to many different career paths that require critical thinking, communication and knowledge building.
 
-Learn More about the [BA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/ba-criminal-justice/).
+Learn More about the [BA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/ba-criminal-justice/)
 
 ## Minor in Criminal Justice
 Students declaring the Criminal Justice minor are preparing themselves for a chance to work in several different areas of criminal justice and other relevant areas of social policy. The minor provides them with the fundamentals of criminal laws and the criminal justice system while offering them the ability to choose from a variety of upper-level electives that interest them.
 
-Learn More about the [Minor in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/minor-criminal-justice/).
+Learn More about the [Minor in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/minor-criminal-justice/)
 
 ## Criminal Justice Honors Program
 The department has its own Honors Program in which majors who are also University Honors students may tailor their honors experience to include a criminal justice specialization. In addition to the honors-level elective courses offered, an invaluable part of the program is the opportunity for students to develop an honors thesis based upon an undergraduate research project individually mentored by a Criminal Justice professor.
@@ -41,7 +41,7 @@ Learn More about the [Criminal Justice Honors Program](http://bulletin.temple.ed
 ## Criminal Justice 4+1 BA/MA
 High-achieving undergraduates will be invited by the faculty of the Criminal Justice Department to apply for the BA/MA 5 year program. Students admitted to this program begin taking graduate courses along with their undergraduate curriculum in their last three undergraduate semesters. They then complete the remaining requirements of a MA in Criminal Justice in the subsequent year. Eligible students will receive notification at the end of their Sophomore year, and applications will be accepted until October 7th of their Junior year.
 
-Learn More about the [4+1 BA/MA in Criminal Justice](https://liberalarts.temple.edu/ba-criminal-justice-ma-criminal-justice).
+Learn More about the [4+1 BA/MA in Criminal Justice](https://liberalarts.temple.edu/ba-criminal-justice-ma-criminal-justice)
 
 ## Internships
 Criminal Justice internships offer the opportunity to put what you’re learning into practice and start making professional connections in your field. Collaborate with your peers as they intern in a variety of criminal justice agencies under the guidance of Criminal Justice faculty by taking Criminal Justice Internship (CJ 4085) and the co-requisite Criminal Justice Seminar (CJ 4075). CJ students do internships in a variety of organizations including federal, state, local law enforcement, probation/parole, prosecutor’s office, public defenders, victims’ services organizations, and more!
