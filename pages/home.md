@@ -18,13 +18,13 @@ feature-image: media/hero_bg.png
 A practice-focused, intellectual experience. Students often debate issues such as police legitimacy, victims’ rights, mass incarceration, fairness in sentencing, and reintegration of formerly incarcerated individuals, as well as a wide variety of other topics. Criminal Justice majors make a difference by working in various criminal justice agencies, becoming attorneys and attending graduate school.
         
 ## Academic Offerings
-- [BA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/ba-criminal-justice/)
+- [BA in Criminal Justice](https://www.temple.edu/academics/degree-programs/criminal-justice-major-la-cj-ba)
 - [Minor in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/minor-criminal-justice/)
-- [MA in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/)
+- [MA in Criminal Justice](https://www.temple.edu/academics/degree-programs/criminal-justice-ma-la-cj-ma)
 - [4+1 BA/MA Program](https://liberalarts.temple.edu/ba-criminal-justice-ma-criminal-justice)
 - [Graduate Certificate in Police Leadership](http://bulletin.temple.edu/graduate/scd/cla/police-leadership-certificate/)
 - [Graduate Certification in Crime Science](http://bulletin.temple.edu/graduate/scd/cla/crime-science-certificate/)
-- [PhD in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-phd/)
+- [PhD in Criminal Justice](https://www.temple.edu/academics/degree-programs/criminal-justice-phd-la-cj-phd)
 
 ___
 
