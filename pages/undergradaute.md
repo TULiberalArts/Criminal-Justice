@@ -47,3 +47,5 @@ Learn More about the [4+1 BA/MA in Criminal Justice](https://liberalarts.temple.
 Criminal Justice internships offer the opportunity to put what you’re learning into practice and start making professional connections in your field. Collaborate with your peers as they intern in a variety of criminal justice agencies under the guidance of Criminal Justice faculty by taking Criminal Justice Internship (CJ 4085) and the co-requisite Criminal Justice Seminar (CJ 4075). CJ students do internships in a variety of organizations including federal, state, local law enforcement, probation/parole, prosecutor’s office, public defenders, victims’ services organizations, and more!
 
 We are here to help! Reach out to [Dr. Cheryl Irons](mailto:cirons@temple.edu), our Internship Coordinator or the CJ advisor, [Corissa Reilly](mailto:corissa@temple.edu), to learn about next steps and for help finding a site to match your goals.
+
+Learn More about [Criminal Justice Careers, Internships & Opportunities](https://www.temple.edu/academics/degrees-programs/undegraduate-majors-minors/criminal-justice-major-ba-cj/careers-internships-opportunities)
