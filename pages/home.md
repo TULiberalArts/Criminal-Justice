@@ -15,7 +15,8 @@ feature-image: media/hero_bg.png
 ---
 ## Committed to Deepening Our Understanding of Crime, Governance and Social Justice
 A practice-focused, intellectual experience. Students often debate issues such as police legitimacy, victims’ rights, mass incarceration, fairness in sentencing, and reintegration of formerly incarcerated individuals, as well as a wide variety of other topics. Criminal Justice majors make a difference by working in various criminal justice agencies, becoming attorneys and attending graduate school.
-**_Temple University's Department of Criminal Justice [Statement of Solidarity - June 8th](
+
+- **_You can read Temple University's Department of Criminal Justice [Statement of Solidarity - June 8th](
 https://liberalarts.temple.edu/sites/liberalarts/files/Statement%2Bof%2BSolidarity%2Bfrom%2Bthe%2BTemple%2BUniversity%2BDepartment%2Bof%2BCriminal%2BJustice%2B%25282%2529.pdf)_**
         
 ## Academic Offerings
