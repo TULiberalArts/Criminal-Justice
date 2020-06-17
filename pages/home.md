@@ -32,8 +32,8 @@ ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-fixed.html
-    title="Undergraduate: A Practice-Focused Intellectual Experience"
-    content="Engage in a multi-disciplinary approach to the study of crime, offenders, and victims, as well as the agencies, goals, laws, policies, and processes of the criminal justice system"
+    title="Undergraduate: A Practice-Focused Experience"
+    content="Engage in a multi-disciplinary approach to the study of crime, offenders, and victims, as well as the agencies, goals, laws, policies and processes of the criminal justice system."
     image=""
     button-link="undergraduate"
     button-text="Learn More" %}
@@ -41,7 +41,7 @@ ___
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Graduate: Policy-Oriented Research and Training"
-      content="A dynamic environment in which faculty, with graduate students, conduct research at the local, regional, national and international levels"
+      content="A dynamic environment in which faculty, with graduate students, conduct research at the local, regional, national and international levels."
       image=""
       button-link="graduate"
       button-text="Learn More" %}
