@@ -26,10 +26,9 @@ Our graduate programs are led by a diverse, multidisciplinary, and active facult
 ## Admissions Process
 Please visit the Criminal Justice [Master’s of Arts Admissions page](https://www.temple.edu/academics/degree-programs/criminal-justice-ma-la-cj-ma/cla-criminal-justice-ma-admissions) or the Criminal Justice [PhD Admissions page](https://www.temple.edu/academics/degree-programs/criminal-justice-phd-la-cj-phd/cla-criminal-justice-phd-admissions) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
+![Jerry and Liz]({{site.baseurl}}/media/jerryLizpgradproject1.jpg){:.responsive-img .img-right}
 ## Careers
 We are extremely proud of the placement record of our PhD graduates. Most PhDs go on to tenure-track academic positions while others pursue research careers in federal, state and local agencies or in the private sector. The secret to our success is a model of close faculty-student mentoring and professional development that begins on the first day of the program. The vast majority of our graduate students conduct grant-funded research with faculty that engages directly with community-based organizations and criminal justice agencies, working on problems such as gun violence and substance abuse.
-
-![Police Recruit Graduation]({{site.baseurl}}/media/resized 2 police-recruit-graduation.jpg){:.responsive-img .img-right}
 
 Our PhD graduates have gone on to tenure-track assistant professorships at institutions such as the University of Cincinnati, Rutgers University, Sam Houston State University, Drexel University, LaSalle University, Vancouver Island University, Towson University, and the University of Louisville; some have begun their academic careers with postdoctoral research positions at institutions like George Mason University. In addition to those embarking on academic careers, a number of our PhD graduates have secured research and policy-making positions at such varied institutions and agencies as the National Institute of Justice, Vera Institute of Justice, Research Triangle Institute, Justice Research and Statistics Association, the Police Foundation, the Center for Drug and Alcohol Studies at the University of Delaware, First Judicial District of Pennsylvania Courts, and Philadelphia Adult Probation and Parole.
 
