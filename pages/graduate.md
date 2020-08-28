@@ -17,7 +17,6 @@ graduate_students: profiles/graduate_students_2.html
 Temple University’s Criminal Justice graduate degrees are designed to train students to apply scientific principles to the study of crime and justice. Our [doctoral program](#learn-in-a-dynamic-environment) is known nationally for research that helps policy makers and practitioners solve real-world problems. Temple’s Criminal Justice [master’s degree](#learn-in-a-dynamic-environment) will enhance your career marketability in criminal justice research and policy. Learn more about your [funding opportunities](#funding) to see how an advanced criminal justice degree from Temple will fit into your life.
 
 ## Learn in a Dynamic Environment
-![2015 Grad Students]({{site.baseurl}}/media/resized CJ Grad Students.jpg){:.responsive-img .img-right}
 Our graduate programs are led by a diverse, multidisciplinary, and active faculty that conducts research at the local, regional, national and international levels with our graduate students. Our success to date is evident when you review the wide variety of research grants we receive, the range of publications we (and our students) produce, the reputations of our faculty and the quality of the graduate students we develop, as evidenced by the job placements of our doctoral students.
 
 - Learn More about the [MA in Criminal Justice](https://www.temple.edu/academics/degree-programs/criminal-justice-ma-la-cj-ma)<br>
@@ -35,6 +34,7 @@ Our PhD graduates have gone on to tenure-track assistant professorships at insti
 A number of our Criminal Justice master’s degree students are already employed in the criminal justice field. Our MA graduates include a detective in the Philadelphia Police Department and the warden of a local jail. Post-graduation, our students have secured positions in local, state and federal law enforcement and criminal justice agencies such as the New Jersey Juvenile Justice Commission and the Bureau of Alcohol, Tobacco, Firearms and Explosives while others have gone on to pursue further graduate study here at Temple and elsewhere.
 
 ## Funding
+![2015 Grad Students]({{site.baseurl}}/media/resized CJ Grad Students.jpg){:.responsive-img .img-right}
 The Department of Criminal Justice ranks among the highest in the university in faculty and student involvement in local and national research activities. The result has been a steady stream of grant-funded employment positions that provide both financial support and the opportunity to develop research skills and graduate thesis/dissertation opportunities. The doctoral program is proud of its track record of support of our doctoral students through a combination of such positions and the other sources of financial support outlined below.
 
 The PhD is a full-time endeavor. It is our standard practice to limit admissions to the PhD program to the number of full-time students to whom we can commit funding support for a period of at least four years. Beyond the guaranteed period of support, we are extremely proud of our track record and ability to fund doctoral students who are making timely progress toward the completion of their degrees.
