@@ -50,7 +50,7 @@ The Criminal Justice Graduate Student Association (CJGSA) is an active group tha
 **If you have a question about the graduate program please see the additional resources below.**
 - [Criminal Justice Graduate Student Association](/criminal-justice/student-life#graduate-student-association/)
 - [Criminal Justice Graduate FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/CJ%20Graduate%20FAQ%27s-%202020.pdf) (pdf)
-- [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/CriminalJusticeGraduateStudentHandbook_June2017_JF.pdf) (pdf)
+- [Graduate Student Handbook](https://drive.google.com/file/d/1wmnJfKcSTSR7ac6_UWj26Ybu6KpJcZf3/view?usp=sharing) (pdf)
 - [Graduate Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate Policies](http://www.temple.edu/grad/policies/index.htm)
