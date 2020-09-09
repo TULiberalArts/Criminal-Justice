@@ -43,6 +43,11 @@ High-achieving undergraduates will be invited by the faculty of the Criminal Jus
 
 Learn More about the [4+1 BA/MA in Criminal Justice](https://liberalarts.temple.edu/ba-criminal-justice-ma-criminal-justice)
 
+## New Certificate in Cybersecurity and Human Behavior
+The five-course Certificate in Cybersecurity and Human Behavior focuses on the human and social elements of cyberattacks and cybersecurity. In addition to obtaining a broad understanding of cybercrime and cyber-investigations, students will learn how technology has impacted various other crimes, such as organized crime, terrorism, hate crimes, and white-collar crime.
+
+Learn More about the [Certificate in Cybersecurity and Human Behavior](https://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-cybersecurity-human-behavior/)
+
 ## Internships
 Criminal Justice internships offer the opportunity to put what you’re learning into practice and start making professional connections in your field. Collaborate with your peers as they intern in a variety of criminal justice agencies under the guidance of Criminal Justice faculty by taking Criminal Justice Internship (CJ 4085) and the co-requisite Criminal Justice Seminar (CJ 4075). CJ students do internships in a variety of organizations including federal, state, local law enforcement, probation/parole, prosecutor’s office, public defenders, victims’ services organizations, and more!
 
