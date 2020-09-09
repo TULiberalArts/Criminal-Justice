@@ -24,6 +24,7 @@ https://liberalarts.temple.edu/sites/liberalarts/files/Statement%2Bof%2BSolidari
 - [Minor in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/minor-criminal-justice/)
 - [MA in Criminal Justice](https://www.temple.edu/academics/degree-programs/criminal-justice-ma-la-cj-ma)
 - [4+1 BA/MA Program](https://liberalarts.temple.edu/ba-criminal-justice-ma-criminal-justice)
+- [Certificate in Cybersecurity and Human Behavior](https://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-cybersecurity-human-behavior/#text)
 - [Graduate Certificate in Police Leadership](http://bulletin.temple.edu/graduate/scd/cla/police-leadership-certificate/)
 - [Graduate Certification in Crime Science](http://bulletin.temple.edu/graduate/scd/cla/crime-science-certificate/)
 - [PhD in Criminal Justice](https://www.temple.edu/academics/degree-programs/criminal-justice-phd-la-cj-phd)
