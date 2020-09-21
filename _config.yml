@@ -54,11 +54,11 @@ media-mentions-feed: https://liberalarts.temple.edu/media-mentions/criminal-just
 social:
   # Facebook - https://www.facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
-  facebook: TempleLiberalArts
+  facebook: TempleCrim
   # Twitter - https://twitter.com/USERNAME
-  twitter: TULiberalArts
+  twitter: temple_cj
   # Instagram - https://www.instagram.com/USERNAME
-  instagram: TULiberalArts
+  instagram: temple_cj
   # Snapchat - USERNAME
   snapchat:
   # GitHub - https://github.com/USERNAME or https://github.com/USERNAME/REPO
