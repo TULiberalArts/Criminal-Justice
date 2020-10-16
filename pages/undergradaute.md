@@ -41,7 +41,7 @@ Learn More about the [4+1 BA/MA in Criminal Justice](https://liberalarts.temple.
 ## New Certificate in Cybersecurity and Human Behavior
 The five-course Certificate in Cybersecurity and Human Behavior focuses on the human and social elements of cyberattacks and cybersecurity. In addition to obtaining a broad understanding of cybercrime and cyber-investigations, students will learn how technology has impacted various other crimes, such as organized crime, terrorism, hate crimes, and white-collar crime.
 
-Learn More about the [Certificate in Cybersecurity and Human Behavior](https://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-cybersecurity-human-behavior/)
+Learn More about the [Certificate in Cybersecurity and Human Behavior](https://www.temple.edu/academics/degree-programs/cybersecurity-and-human-behavior-certificate-undergraduate-la-cyhb-cert)
 
 ## Criminal Justice Honors Program
 The department has its own Honors Program in which majors who are also University Honors students may tailor their honors experience to include a criminal justice specialization. In addition to the honors-level elective courses offered, an invaluable part of the program is the opportunity for students to develop an honors thesis based upon an undergraduate research project individually mentored by a Criminal Justice professor.
