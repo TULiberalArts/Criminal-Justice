@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >
-  Deepen your understanding of crime, governance, and social justice by learning how the courts, law enforcement, and corrections function and impact society. Major, Minor, and view our academic offerings in Criminal Justice at Temple University’s College of Liberal Arts.
-keywords: 'major, minor, academic offerings, criminal justice students'
+  What is criminal justice and how does the justice system work? Learn what you can do with a criminal justice degree from Temple University and be competitive for criminal justice jobs. We offer undergraduate degrees (BA, Minor, Major) and graduate degrees (Masters, PhD).
+keywords: 'criminal justice degree, criminology degree, criminal justice, cj, criminology, minor, major, masters, ma, phd, doctorate, doctoral, graduate, undergraduate, criminal justice system, criminal justice jobs, police, law enforcement, courts, policy, research, students'
 # custom variables
 promotion-table: true
 feature: true
