@@ -11,6 +11,13 @@ keywords: 'criminal justice research, research projects'
 ---
 ## Policy Analysis and Program Evaluation
 
+_Project Title_: **The Kensington Initiative: The Violent Crime and Opioid Reduction Partnership** <br>
+_Affiliated Faculty_: [Caterina Roman](https://liberalarts.temple.edu/academics/faculty/roman-caterina)<br>
+
+Description: This collaborative project led by the Pennsylvania Office of Attorney General (OAG) (lead agency) expands and evaluates an collaborative law enforcement and prosecution strategy, known as the Kensington Initiative (KI). The KI is designed to reduce violent crime and accidental overdose deaths tied to drug markets, but with specific emphasis on analysis-driven targeting, investigation and smart prosecution of crime drivers. The Temple research team is developing a detailed set of performance measures and conducting an impact evaluation. The strategy analysis and research is supported by a grant from the U.S. Bureau of Justice Assistance. The detailed project brief can be found [here](https://liberalarts.temple.edu/sites/liberalarts/files/KI_Brief_formatting_final_2.pdf).
+
+___
+
 _Project Title_: **Criminal Justice Policy and Planning: Planned Change** <br>
 _Affiliated Faculty_: [Wayne Welsh](https://liberalarts.temple.edu/academics/faculty/welsh-wayne) and Phil Harris (retired) <br>
 
