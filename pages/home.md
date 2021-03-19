@@ -35,7 +35,9 @@ In response to recent events in Atlanta and across the U.S., the Criminal Justic
 <details>
   <summary><strong>March 18th Statement of Solidarity</strong></summary>
 <p>The Department of Criminal Justice at Temple University stands in solidarity with the Asian American community. We are horrified by racially motivated hate crimes and xenophobic rhetoric targeting Asian Americans, which have increased during the COVID-19 pandemic. In our scholarship and teaching, we are committed to dismantling systemic racism and advancing racial equality. We recognize that achieving a more just society is critical to the safety and security of every person in the United States.  We value the many contributions of the Asian-American members of our academic community and will continue to support and work with our Asian-American students, faculty and staff to advance our shared goal of building a more just criminal legal system and a better tomorrow.</p>
-</details>  
+</details> 
+
+___
 
 ## Academic Offerings
 - [BA in Criminal Justice](https://www.temple.edu/academics/degree-programs/criminal-justice-major-la-cj-ba)
@@ -46,8 +48,6 @@ In response to recent events in Atlanta and across the U.S., the Criminal Justic
 - [Graduate Certificate in Police Leadership](http://bulletin.temple.edu/graduate/scd/cla/police-leadership-certificate/)
 - [Graduate Certification in Crime Science](http://bulletin.temple.edu/graduate/scd/cla/crime-science-certificate/)
 - [PhD in Criminal Justice](https://www.temple.edu/academics/degree-programs/criminal-justice-phd-la-cj-phd)
-
-___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-fixed.html
