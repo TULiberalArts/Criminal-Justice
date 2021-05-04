@@ -47,10 +47,20 @@ Choosing the appropriate graduate program can be stressful and overwhelming. Weâ
 
 The Criminal Justice Graduate Student Association (CJGSA) is an active group that sponsors academic and social events that facilitate both the professional development and social development of our members. The CJGSA is responsible for serving as a liaison between graduate students and faculty members, assisting undergraduate students in the development and refinement of their coursework through the department Mentoring Center, and offering support to incoming and prospective students by sharing information and perspectives on the program, graduate student life and living in Philadelphia. In addition to these routine activities, the CJGSA invites critical thinkers to share their justice-related ideas and experiences with Temple University and Philadelphia each spring. In 2013, this event was institutionalized as the Annual John S. Goldkamp Lecture with the intention of honoring Professor Goldkampâ€™s innovative contributions to the criminal justice field.
 
-**If you have a question about the graduate program please see the additional resources below.**
-- [Criminal Justice Graduate Student Association](/criminal-justice/student-life#graduate-student-association/)
+**CJGSA Officers, 2020-2021:**
+- Alyssa Mendlein, co-President: [mailto:Alyssa.Mendlein@Temple.edu](Alyssa.Mendlein@Temple.edu)
+- Ronni Nelson, co-President: [mailto:Veronica.Nelson@Temple.edu](Veronica.Nelson@Temple.edu)
+- Jesse Brey, Vice President: [mailto:Jesse.Brey@Temple.edu](Jesse.Brey@Temple.edu)
+- Chelsey Cain, Grad Representative: [mailto:Chelsey.Cain@Temple.edu](Chelsey.Cain@Temple.edu)
+- Lauren Perron, Social Chair: [mailto:Lauren.Perron@Temple.edu](Lauren.Perron@Temple.edu)
+- Sarah DeLucca, Secretary: [mailto:Sarah.Delucca@Temple.edu](Sarah.Delucca@Temple.edu)
+- Megan Shaud, Treasurer: [mailto:Meganshaud@Temple.edu](Meganshaud@Temple.edu)
+- Megan Mohler, STARS Coordinator: [mailto:Megan.Mohler@Temple.ed](Megan.Mohler@Temple.edu)
+
+**Other resources about the graduate program can you be found below.**
 - [Criminal Justice Graduate FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/CJ%20Graduate%20FAQ%27s-%202020.pdf) (pdf)
 - [Graduate Student Handbook](https://drive.google.com/file/d/1wmnJfKcSTSR7ac6_UWj26Ybu6KpJcZf3/view?usp=sharing) (pdf)
+- [Criminal Justice Graduate Student Association](/criminal-justice/student-life#graduate-student-association/)
 - [Graduate Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate Policies](http://www.temple.edu/grad/policies/index.htm)
