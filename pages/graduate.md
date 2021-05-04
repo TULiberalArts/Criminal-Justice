@@ -55,7 +55,7 @@ The Criminal Justice Graduate Student Association (CJGSA) is an active group tha
 - Lauren Perron, Social Chair: [mailto:Lauren.Perron@Temple.edu](Lauren.Perron@Temple.edu)
 - Sarah DeLucca, Secretary: [mailto:Sarah.Delucca@Temple.edu](Sarah.Delucca@Temple.edu)
 - Megan Shaud, Treasurer: [mailto:Meganshaud@Temple.edu](Meganshaud@Temple.edu)
-- Megan Mohler, STARS Coordinator: [mailto:Megan.Mohler@Temple.ed](Megan.Mohler@Temple.edu)
+- Megan Mohler, STARS Coordinator: [mailto:Megan.Mohler@Temple.edu](Megan.Mohler@Temple.edu)
 
 **Other resources about the graduate program can you be found below.**
 - [Criminal Justice Graduate FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/CJ%20Graduate%20FAQ%27s-%202020.pdf) (pdf)
