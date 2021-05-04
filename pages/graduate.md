@@ -48,14 +48,14 @@ Choosing the appropriate graduate program can be stressful and overwhelming. Weâ
 The Criminal Justice Graduate Student Association (CJGSA) is an active group that sponsors academic and social events that facilitate both the professional development and social development of our members. The CJGSA is responsible for serving as a liaison between graduate students and faculty members, assisting undergraduate students in the development and refinement of their coursework through the department Mentoring Center, and offering support to incoming and prospective students by sharing information and perspectives on the program, graduate student life and living in Philadelphia. In addition to these routine activities, the CJGSA invites critical thinkers to share their justice-related ideas and experiences with Temple University and Philadelphia each spring. In 2013, this event was institutionalized as the Annual John S. Goldkamp Lecture with the intention of honoring Professor Goldkampâ€™s innovative contributions to the criminal justice field.
 
 **CJGSA Officers, 2020-2021:**
-- Alyssa Mendlein, co-President: [mailto:Alyssa.Mendlein@Temple.edu](Alyssa.Mendlein@Temple.edu)
-- Ronni Nelson, co-President: [mailto:Veronica.Nelson@Temple.edu](Veronica.Nelson@Temple.edu)
-- Jesse Brey, Vice President: [mailto:Jesse.Brey@Temple.edu](Jesse.Brey@Temple.edu)
-- Chelsey Cain, Grad Representative: [mailto:Chelsey.Cain@Temple.edu](Chelsey.Cain@Temple.edu)
-- Lauren Perron, Social Chair: [mailto:Lauren.Perron@Temple.edu](Lauren.Perron@Temple.edu)
-- Sarah DeLucca, Secretary: [mailto:Sarah.Delucca@Temple.edu](Sarah.Delucca@Temple.edu)
-- Megan Shaud, Treasurer: [mailto:Meganshaud@Temple.edu](Meganshaud@Temple.edu)
-- Megan Mohler, STARS Coordinator: [mailto:Megan.Mohler@Temple.edu](Megan.Mohler@Temple.edu)
+- Alyssa Mendlein, co-President: [Alyssa.Mendlein@Temple.edu](mailto:Alyssa.Mendlein@Temple.edu)
+- Ronni Nelson, co-President: [Veronica.Nelson@Temple.edu](mailto:Veronica.Nelson@Temple.edu)
+- Jesse Brey, Vice President: [Jesse.Brey@Temple.edu](mailto:Jesse.Brey@Temple.edu)
+- Chelsey Cain, Grad Representative: [Chelsey.Cain@Temple.edu](mailto:Chelsey.Cain@Temple.edu)
+- Lauren Perron, Social Chair: [Lauren.Perron@Temple.edu](mailto:Lauren.Perron@Temple.edu)
+- Sarah DeLucca, Secretary: [Sarah.Delucca@Temple.edu](mailto:Sarah.Delucca@Temple.edu)
+- Megan Shaud, Treasurer: [Meganshaud@Temple.edu](mailto:Meganshaud@Temple.edu)
+- Megan Mohler, STARS Coordinator: [Megan.Mohler@Temple.edu](mailto:Megan.Mohler@Temple.edu)
 
 **Other resources about the graduate program can you be found below.**
 - [Criminal Justice Graduate FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/CJ%20Graduate%20FAQ%27s-%202020.pdf) (pdf)
