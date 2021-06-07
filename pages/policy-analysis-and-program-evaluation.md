@@ -11,6 +11,14 @@ keywords: 'criminal justice research, research projects'
 ---
 ## Policy Analysis and Program Evaluation
 
+_Project Title_: **SaTU: Educating STEM Students and Teachers about the Relevance of Social Engineering in Cyberattacks and Cybersecurity** <br>
+_Funding Agency_: National Science Foundation
+_Affiliated Faculty_: [Aunshul Rege](https://liberalarts.temple.edu/academics/faculty/rege-aunshul)<br>
+
+Description: This project has three objectives. First, it will educate students via hands-on course projects and a yearly intercollegiate SE Capture the Flag competition and training event. Second, the project will educate educators by hosting online and in-person training workshops across multiple STEM disciplines. Finally, the project will disseminate free resources such as SE course projects, datasets and analytic frameworks for research and education. The project will also develop a new set of assessment tools (surveys and focus groups) with Temple’s Center for the Advancement of Teaching to measure student and educator learning specific to SE. This project proposes to enlarge and diversify the pool of students and educators by recruiting across multiple STEM disciplines at community colleges and universities in the U.S. with varying demographics. Minority serving institutions, historically black colleges and universities, and military/veteran friendly schools will be specifically engaged. In addition, the project team will actively seek participation from faculty belonging to underrepresented groups at these institutions.
+
+___
+
 _Project Title_: **The Kensington Initiative: The Violent Crime and Opioid Reduction Partnership** <br>
 _Affiliated Faculty_: [Caterina Roman](https://liberalarts.temple.edu/academics/faculty/roman-caterina)<br>
 
