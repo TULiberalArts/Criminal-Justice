@@ -10,6 +10,22 @@ keywords: 'criminal justice research, research projects'
 # custom variables
 ---
 ## Criminal Behavior and Community Crime Rates
+  
+_Project Title_: **CAREER: Applying a Criminological Framework to Understand Adaptive Adversarial Decision-Making Processes in Critical Infrastructure Cyberattacks** <br>
+_Funding Agency_: National Science Foundation <br>
+_Affiliated Faculty_: [Aunshul Rege](https://liberalarts.temple.edu/academics/faculty/rege-aunshul) <br>
+
+Description: This project investigates the adaptive and evolving adversarial decision-making (ADM) process in critical infrastructure cyberattacks. Specifically, this project has five research objectives: (1) Investigate adversary-defender interaction and identify adversarial attack paths, (2) Understand adversarial adaptability when attack paths are disrupted, (3) Investigate the importance and characteristics of the various stages in attack paths, (4) Identify which factors impact ADM at each stage of the attack path, and (5) Improve the transparency, consistency and validation of adversarial attack paths.
+
+___
+  
+_Project Title_: **CPS: Synergy: Collaborative Research: Towards Secure Networked Cyber-Physical Systems: A Theoretic Framework with Bounded Rationality** <br>
+_Funding Agency_: National Science Foundation <br>
+_Affiliated Faculty_: [Aunshul Rege](https://liberalarts.temple.edu/academics/faculty/rege-aunshul) <br>
+
+Description: This project will develop a multidisciplinary framework that weaves together principles from cybersecurity, control theory, networking and criminology. The framework will include novel security mechanisms for networked cyber-physical systems (NCPSs) founded on solid control-theoretic and related notions, analytical tools that allow incorporation of bounded human rationality in NCPS security, and experiments with real-world attack scenarios. A newly built cross-institutional NCPS simulator will be used to evaluate the proposed mechanisms in realistic environments. This research transcends specific cyber-physical systems domains and provides the necessary tools to building secure and trustworthy NCPSs. The broader impacts include a new infrastructure for NCPS research and education, training of students, new courses, and outreach events focused on under-represented student groups.
+
+___
 
 _Project Title_: **State of the art in agent-based modeling of urban crime: Overview, critical questions and next steps** <br>
 _Affiliated Faculty_: [Elizabeth Groff](https://liberalarts.temple.edu/academics/faculty/groff-elizabeth) <br>
